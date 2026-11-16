@@ -1,0 +1,594 @@
+{
+ "updated": "2026-11-15",
+ "episodes": [
+  {
+   "date": "2026-11-13",
+   "title": "With a new Track of the Week by Another; Country $$$$",
+   "tow": "Another; Country $$$$",
+   "artists": [
+    "Group A.D.",
+    "IFULKI",
+    "Ledbyher feat. SINN6R",
+    "The Healing Power of Horses",
+    "Bloodworm",
+    "Indoor Foxes",
+    "Sandhouse",
+    "Eddie Doyle",
+    "The Ninth Wave",
+    "Morgan Morris",
+    "lots of hands",
+    "Leneta",
+    "Another; Country $$$$"
+   ],
+   "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "With a new Track of the Week from The Healing Power of Horses",
+   "tow": "The Healing Power of Horses",
+   "artists": [
+    "Bathing Suits",
+    "Hank",
+    "GWEN",
+    "Girl Group",
+    "ROZZZQWEEN",
+    "Webmoms feat. Kimani",
+    "Willie J Healey",
+    "Marie Franc",
+    "DOG DAYS",
+    "Eistir",
+    "Olorunns",
+    "Samuel Nicholson",
+    "Father Hell",
+    "Bonds",
+    "The Healing Power of Horses"
+   ],
+   "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "With a new Track of the Week by Girl Group!",
+   "tow": "Girl Group",
+   "artists": [
+    "DOSS",
+    "Kiosk",
+    "PVC",
+    "Bruise Control",
+    "ASIAN BRAT",
+    "HØST",
+    "Elf Jaw",
+    "The Meffs",
+    "Big Warm Bed",
+    "Alice Faye",
+    "Ceitidh Mac",
+    "Jordan Joy",
+    "KinKai",
+    "Girl Group"
+   ],
+   "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Sŵn Festival special!",
+   "tow": null,
+   "artists": [
+    "twst",
+    "Spanish Horses",
+    "LEMONSUCKR",
+    "Steven Bamidele",
+    "ADJUA",
+    "Spike",
+    "Dermot Henry",
+    "Tokomololo"
+   ],
+   "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "With a new Track of the Week by Bruise Control",
+   "tow": "Bruise Control",
+   "artists": [
+    "Wyatt",
+    "Cyn Cwsg",
+    "Esme Emerson",
+    "Pearl2",
+    "Cowboy Hunters",
+    "redolent",
+    "Lily Juniper",
+    "whosmeg?",
+    "cordelia gartside",
+    "Mandrake Handshake",
+    "Johanna Warren",
+    "lochre",
+    "NinaRosa",
+    "two blinks, I love you",
+    "Pearly Gates",
+    "Bruise Control"
+   ],
+   "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "With a new Track of the Week from Pearl2",
+   "tow": "Pearl2",
+   "artists": [
+    "Body Horror",
+    "Sandhouse",
+    "Galore",
+    "Long Distance Runner",
+    "Clea May feat. Cash Green",
+    "KinKai feat. ENNY",
+    "Kofi Stone",
+    "Steven Bamidele feat. Scarlett Fae",
+    "Tokomololo",
+    "Troutflies",
+    "Eistir",
+    "Sally Stenning",
+    "Harriet Rock",
+    "Pearl2"
+   ],
+   "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "With a new Track of the Week from Long Distance Runner",
+   "tow": "Long Distance Runner",
+   "artists": [
+    "kaeto",
+    "sooyeon",
+    "White Flowers",
+    "Sin Clair",
+    "White Rafi",
+    "Spanish Horses",
+    "Heidi Curtis",
+    "The Family Battenberg",
+    "GANS",
+    "La Rissa",
+    "twst",
+    "Dolo Jones",
+    "Riya Lue",
+    "Lucy Moon",
+    "Long Distance Runner"
+   ],
+   "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-09-25",
+   "title": "With a new Track of the Week from Sin Clair",
+   "tow": "Sin Clair",
+   "artists": [
+    "Oscar Browne",
+    "Hank",
+    "Natalie McCool feat. She Drew The Gun",
+    "MM'99",
+    "LFay",
+    "Larimae",
+    "Bleep Test",
+    "Sisters",
+    "Bleach lab",
+    "i.am.afiya",
+    "Rail Replacement Bus Service",
+    "Zoe Cure",
+    "Quinn Oulton",
+    "Sin Clair"
+   ],
+   "source": "Apple Podcasts episode text"
+  }
+ ],
+ "artists": {
+  "adjua": {
+   "name": "ADJUA",
+   "status": "pending"
+  },
+  "alice-faye": {
+   "name": "Alice Faye",
+   "status": "pending"
+  },
+  "another-country": {
+   "name": "Another; Country $$$$",
+   "status": "pending"
+  },
+  "asian-brat": {
+   "name": "ASIAN BRAT",
+   "status": "pending"
+  },
+  "bathing-suits": {
+   "name": "Bathing Suits",
+   "status": "youtube",
+   "checked": "2026-11-15",
+   "youtube": "https://www.youtube.com/@BathingSuitsBand"
+  },
+  "big-warm-bed": {
+   "name": "Big Warm Bed",
+   "status": "pending"
+  },
+  "bleach-lab": {
+   "name": "Bleach lab",
+   "status": "pending"
+  },
+  "bleep-test": {
+   "name": "Bleep Test",
+   "status": "pending"
+  },
+  "bloodworm": {
+   "name": "Bloodworm",
+   "status": "bandcamp",
+   "checked": "2026-11-15",
+   "bandcamp": "https://bloodworm1.bandcamp.com/",
+   "note": "No YouTube channel found. Nottingham goth band."
+  },
+  "body-horror": {
+   "name": "Body Horror",
+   "status": "pending"
+  },
+  "bonds": {
+   "name": "Bonds",
+   "status": "pending"
+  },
+  "bruise-control": {
+   "name": "Bruise Control",
+   "status": "pending",
+   "checked": "2026-11-15",
+   "bandcamp": "https://bruisecontrol.bandcamp.com/",
+   "note": "Bandcamp known. YouTube not checked."
+  },
+  "ceitidh-mac": {
+   "name": "Ceitidh Mac",
+   "status": "pending"
+  },
+  "clea-may": {
+   "name": "Clea May",
+   "status": "pending"
+  },
+  "cordelia-gartside": {
+   "name": "cordelia gartside",
+   "status": "pending"
+  },
+  "cowboy-hunters": {
+   "name": "Cowboy Hunters",
+   "status": "pending"
+  },
+  "cyn-cwsg": {
+   "name": "Cyn Cwsg",
+   "status": "pending"
+  },
+  "dermot-henry": {
+   "name": "Dermot Henry",
+   "status": "pending"
+  },
+  "dog-days": {
+   "name": "DOG DAYS",
+   "status": "pending"
+  },
+  "dolo-jones": {
+   "name": "Dolo Jones",
+   "status": "pending"
+  },
+  "doss": {
+   "name": "DOSS",
+   "status": "pending"
+  },
+  "eddie-doyle": {
+   "name": "Eddie Doyle",
+   "status": "pending",
+   "checked": "2026-11-15",
+   "note": "No match in first search."
+  },
+  "eistir": {
+   "name": "Eistir",
+   "status": "pending"
+  },
+  "elf-jaw": {
+   "name": "Elf Jaw",
+   "status": "pending"
+  },
+  "esme-emerson": {
+   "name": "Esme Emerson",
+   "status": "pending"
+  },
+  "father-hell": {
+   "name": "Father Hell",
+   "status": "pending"
+  },
+  "galore": {
+   "name": "Galore",
+   "status": "pending"
+  },
+  "gans": {
+   "name": "GANS",
+   "status": "pending"
+  },
+  "girl-group": {
+   "name": "Girl Group",
+   "status": "pending"
+  },
+  "group-a-d": {
+   "name": "Group A.D.",
+   "status": "youtube",
+   "checked": "2026-11-15",
+   "youtube": "https://www.youtube.com/@Group_A_D",
+   "bandcamp": "https://groupad.bandcamp.com/"
+  },
+  "gwen": {
+   "name": "GWEN",
+   "status": "pending"
+  },
+  "h-st": {
+   "name": "HØST",
+   "status": "pending"
+  },
+  "hank": {
+   "name": "Hank",
+   "status": "pending"
+  },
+  "harriet-rock": {
+   "name": "Harriet Rock",
+   "status": "pending"
+  },
+  "heidi-curtis": {
+   "name": "Heidi Curtis",
+   "status": "pending"
+  },
+  "i-am-afiya": {
+   "name": "i.am.afiya",
+   "status": "pending"
+  },
+  "ifulki": {
+   "name": "IFULKI",
+   "status": "pending",
+   "checked": "2026-11-15",
+   "note": "No YouTube channel found in first search. Check Bandcamp."
+  },
+  "indoor-foxes": {
+   "name": "Indoor Foxes",
+   "status": "youtube",
+   "checked": "2026-11-15",
+   "youtube": "https://www.youtube.com/@INDOORFOXES"
+  },
+  "johanna-warren": {
+   "name": "Johanna Warren",
+   "status": "pending"
+  },
+  "jordan-joy": {
+   "name": "Jordan Joy",
+   "status": "pending"
+  },
+  "kaeto": {
+   "name": "kaeto",
+   "status": "pending"
+  },
+  "kinkai": {
+   "name": "KinKai",
+   "status": "pending"
+  },
+  "kiosk": {
+   "name": "Kiosk",
+   "status": "pending",
+   "checked": "2026-11-15",
+   "bandcamp": "https://kioskbanduk.bandcamp.com/",
+   "note": "Bandcamp known. YouTube not checked."
+  },
+  "kofi-stone": {
+   "name": "Kofi Stone",
+   "status": "pending"
+  },
+  "la-rissa": {
+   "name": "La Rissa",
+   "status": "pending"
+  },
+  "larimae": {
+   "name": "Larimae",
+   "status": "pending"
+  },
+  "ledbyher": {
+   "name": "Ledbyher",
+   "status": "youtube",
+   "checked": "2026-11-15",
+   "youtube": "https://www.youtube.com/@Ledbyherr"
+  },
+  "lemonsuckr": {
+   "name": "LEMONSUCKR",
+   "status": "pending"
+  },
+  "leneta": {
+   "name": "Leneta",
+   "status": "pending"
+  },
+  "lfay": {
+   "name": "LFay",
+   "status": "pending"
+  },
+  "lily-juniper": {
+   "name": "Lily Juniper",
+   "status": "pending"
+  },
+  "lochre": {
+   "name": "lochre",
+   "status": "pending"
+  },
+  "long-distance-runner": {
+   "name": "Long Distance Runner",
+   "status": "pending"
+  },
+  "lots-of-hands": {
+   "name": "lots of hands",
+   "status": "pending"
+  },
+  "lucy-moon": {
+   "name": "Lucy Moon",
+   "status": "pending"
+  },
+  "mandrake-handshake": {
+   "name": "Mandrake Handshake",
+   "status": "pending"
+  },
+  "marie-franc": {
+   "name": "Marie Franc",
+   "status": "pending"
+  },
+  "mm-99": {
+   "name": "MM'99",
+   "status": "pending"
+  },
+  "morgan-morris": {
+   "name": "Morgan Morris",
+   "status": "pending",
+   "checked": "2026-11-15",
+   "note": "No match in first search."
+  },
+  "natalie-mccool": {
+   "name": "Natalie McCool",
+   "status": "pending"
+  },
+  "ninarosa": {
+   "name": "NinaRosa",
+   "status": "pending"
+  },
+  "olorunns": {
+   "name": "Olorunns",
+   "status": "pending"
+  },
+  "oscar-browne": {
+   "name": "Oscar Browne",
+   "status": "pending"
+  },
+  "pearl2": {
+   "name": "Pearl2",
+   "status": "pending",
+   "checked": "2026-11-15",
+   "bandcamp": "https://pearl2trax.bandcamp.com/",
+   "note": "Bandcamp known. YouTube not checked."
+  },
+  "pearly-gates": {
+   "name": "Pearly Gates",
+   "status": "pending"
+  },
+  "pvc": {
+   "name": "PVC",
+   "status": "pending"
+  },
+  "quinn-oulton": {
+   "name": "Quinn Oulton",
+   "status": "pending"
+  },
+  "rail-replacement-bus-service": {
+   "name": "Rail Replacement Bus Service",
+   "status": "pending"
+  },
+  "redolent": {
+   "name": "redolent",
+   "status": "pending"
+  },
+  "riya-lue": {
+   "name": "Riya Lue",
+   "status": "pending"
+  },
+  "rozzzqween": {
+   "name": "ROZZZQWEEN",
+   "status": "pending"
+  },
+  "sally-stenning": {
+   "name": "Sally Stenning",
+   "status": "pending"
+  },
+  "samuel-nicholson": {
+   "name": "Samuel Nicholson",
+   "status": "pending"
+  },
+  "sandhouse": {
+   "name": "Sandhouse",
+   "status": "bandcamp",
+   "checked": "2026-11-15",
+   "bandcamp": "https://sandhouse.bandcamp.com/",
+   "note": "No YouTube channel found."
+  },
+  "sin-clair": {
+   "name": "Sin Clair",
+   "status": "pending"
+  },
+  "sisters": {
+   "name": "Sisters",
+   "status": "pending"
+  },
+  "sooyeon": {
+   "name": "sooyeon",
+   "status": "pending"
+  },
+  "spanish-horses": {
+   "name": "Spanish Horses",
+   "status": "pending"
+  },
+  "spike": {
+   "name": "Spike",
+   "status": "pending"
+  },
+  "steven-bamidele": {
+   "name": "Steven Bamidele",
+   "status": "pending"
+  },
+  "the-family-battenberg": {
+   "name": "The Family Battenberg",
+   "status": "pending"
+  },
+  "the-healing-power-of-horses": {
+   "name": "The Healing Power of Horses",
+   "status": "pending",
+   "checked": "2026-11-15",
+   "note": "No YouTube channel found in first search. Check Bandcamp."
+  },
+  "the-meffs": {
+   "name": "The Meffs",
+   "status": "pending"
+  },
+  "the-ninth-wave": {
+   "name": "The Ninth Wave",
+   "status": "youtube",
+   "checked": "2026-11-15",
+   "youtube": "https://www.youtube.com/@TheNinthWaveMusic"
+  },
+  "tokomololo": {
+   "name": "Tokomololo",
+   "status": "pending"
+  },
+  "troutflies": {
+   "name": "Troutflies",
+   "status": "pending"
+  },
+  "two-blinks-i-love-you": {
+   "name": "two blinks, I love you",
+   "status": "pending"
+  },
+  "twst": {
+   "name": "twst",
+   "status": "pending"
+  },
+  "webmoms": {
+   "name": "Webmoms",
+   "status": "pending"
+  },
+  "white-flowers": {
+   "name": "White Flowers",
+   "status": "pending"
+  },
+  "white-rafi": {
+   "name": "White Rafi",
+   "status": "pending"
+  },
+  "whosmeg": {
+   "name": "whosmeg?",
+   "status": "pending"
+  },
+  "willie-j-healey": {
+   "name": "Willie J Healey",
+   "status": "pending"
+  },
+  "wyatt": {
+   "name": "Wyatt",
+   "status": "pending"
+  },
+  "zoe-cure": {
+   "name": "Zoe Cure",
+   "status": "pending"
+  }
+ }
+}

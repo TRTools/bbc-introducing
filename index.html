@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BBC Introducing Mixtape Artists</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --card: #ffffff; --ink: #1d1d1f; --muted: #6b6b70; --line: #e4e2dc;
+    --yt: #d92d20; --bc: #1b8a8c; --pend: #8a8a8f; --tow: #f2b705; --accent: #ff5a1f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #121214; --card: #1c1c1f; --ink: #f1f1f3; --muted: #9a9aa2; --line: #2d2d32;
+            --yt: #ff6b5e; --bc: #4cc3c5; --pend: #8f8f97; --tow: #f5c542; --accent: #ff7a45; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  header { padding: 20px 16px 8px; max-width: 860px; margin: 0 auto; }
+  h1 { font-size: 22px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  h1 span { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13px; margin: 0; }
+  .bar { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 10px 16px;
+         max-width: 860px; margin: 0 auto; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  input[type=search] { flex: 1 1 220px; padding: 9px 12px; border-radius: 10px; border: 1px solid var(--line);
+         background: var(--card); color: var(--ink); font-size: 15px; }
+  .seg { display: flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .seg button { border: 0; background: var(--card); color: var(--ink); padding: 8px 12px; font-size: 14px; cursor: pointer; }
+  .seg button.on { background: var(--ink); color: var(--bg); }
+  main { max-width: 860px; margin: 0 auto; padding: 4px 16px 40px; }
+  .ep { background: var(--card); border: 1px solid var(--line); border-radius: 14px; margin: 12px 0; overflow: hidden; }
+  .ep summary { list-style: none; cursor: pointer; padding: 14px 16px; display: flex; gap: 12px; align-items: baseline; }
+  .ep summary::-webkit-details-marker { display: none; }
+  .date { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 13px; min-width: 84px; }
+  .etitle { font-weight: 600; flex: 1; }
+  .count { color: var(--muted); font-size: 13px; white-space: nowrap; }
+  ul.artists { list-style: none; margin: 0; padding: 0 0 6px; border-top: 1px solid var(--line); }
+  ul.artists li { display: flex; align-items: center; gap: 10px; padding: 9px 16px; border-bottom: 1px solid var(--line); }
+  ul.artists li:last-child { border-bottom: 0; }
+  .name { flex: 1; min-width: 0; }
+  .name small { color: var(--muted); }
+  .tow { font-size: 11px; font-weight: 700; color: #1d1d1f; background: var(--tow); border-radius: 6px; padding: 1px 6px; margin-left: 6px; white-space: nowrap; }
+  a.link { text-decoration: none; font-size: 13px; font-weight: 600; padding: 5px 10px; border-radius: 8px; white-space: nowrap; border: 1px solid currentColor; }
+  a.yt { color: var(--yt); } a.bc { color: var(--bc); } a.pend { color: var(--pend); border-style: dashed; }
+  .eps { color: var(--muted); font-size: 12px; }
+  .note { color: var(--muted); font-size: 13px; padding: 24px 4px; text-align: center; }
+  .legend { color: var(--muted); font-size: 12px; max-width: 860px; margin: 0 auto; padding: 0 16px; }
+  .legend b.y { color: var(--yt); } .legend b.b { color: var(--bc); } .legend b.p { color: var(--pend); }
+</style>
+</head>
+<body>
+<header>
+  <h1>BBC Introducing <span>Mixtape</span> artists</h1>
+  <p class="sub">Every artist from the 6 Music Mixtape with Emily Pilbeam. Updated each week.</p>
+</header>
+<div class="bar">
+  <input id="q" type="search" placeholder="Search artists" autocomplete="off">
+  <div class="seg" role="tablist">
+    <button id="vEp" class="on" type="button">By episode</button>
+    <button id="vAz" type="button">All artists</button>
+  </div>
+</div>
+<p class="legend"><b class="y">YouTube</b> official channel &nbsp;·&nbsp; <b class="b">Bandcamp</b> when no channel found &nbsp;·&nbsp; <b class="p">Search</b> link not checked yet</p>
+<main id="out"><p class="note" id="status">Loading…</p></main>
+
+<script>
+(function () {
+  var episodes = [], artists = {}, view = "ep", query = "";
+  var out = document.getElementById("out");
+
+  function lead(name) { return String(name).split(/\s+feat\.\s+/i)[0].trim(); }
+  function slug(name) {
+    var s = lead(name).toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "")
+      .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+    return s || "x";
+  }
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function safeUrl(u) { return /^https:\/\/(www\.)?(youtube\.com|[a-z0-9-]+\.bandcamp\.com|bandcamp\.com)\//i.test(u || "") ? u : null; }
+  function fmtDate(d) {
+    var p = String(d).split("-"); if (p.length < 3) return esc(d);
+    var m = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][+p[1] - 1];
+    return p[2].replace(/^0/, "") + " " + m + " " + p[0];
+  }
+
+  function linkFor(name) {
+    var a = artists[slug(name)] || {};
+    var yt = safeUrl(a.youtube), bc = safeUrl(a.bandcamp);
+    if (yt) return '<a class="link yt" href="' + esc(yt) + '" target="_blank" rel="noopener">YouTube</a>';
+    if (bc) return '<a class="link bc" href="' + esc(bc) + '" target="_blank" rel="noopener">Bandcamp</a>';
+    var q = encodeURIComponent(lead(name) + " music");
+    return '<a class="link pend" href="https://www.youtube.com/results?search_query=' + q + '" target="_blank" rel="noopener">Search</a>';
+  }
+
+  function match(name) { return !query || name.toLowerCase().indexOf(query) !== -1; }
+
+  function renderEpisodes() {
+    var html = "", shown = 0;
+    episodes.forEach(function (e, i) {
+      var list = (e.artists || []).filter(match);
+      if (query && !list.length) return;
+      shown++;
+      var rows = list.map(function (n) {
+        var isTow = e.tow && lead(n) === lead(e.tow);
+        return '<li><div class="name">' + esc(n) + (isTow ? '<span class="tow">Track of the Week</span>' : "") +
+               '</div>' + linkFor(n) + '</li>';
+      }).join("");
+      html += '<details class="ep"' + (i === 0 || query ? " open" : "") + '><summary>' +
+        '<span class="date">' + fmtDate(e.date) + '</span><span class="etitle">' + esc(e.title || "") +
+        '</span><span class="count">' + (e.artists || []).length + ' artists</span></summary>' +
+        '<ul class="artists">' + rows + '</ul></details>';
+    });
+    out.innerHTML = shown ? html : '<p class="note">No artists match.</p>';
+  }
+
+  function renderAll() {
+    var map = {};
+    episodes.forEach(function (e) {
+      (e.artists || []).forEach(function (n) {
+        var k = slug(n);
+        if (!map[k]) map[k] = { name: lead(n), eps: [] };
+        map[k].eps.push(e.date);
+      });
+    });
+    var list = Object.keys(map).map(function (k) { return map[k]; })
+      .filter(function (a) { return match(a.name); })
+      .sort(function (a, b) { return a.name.localeCompare(b.name, undefined, { sensitivity: "base" }); });
+    if (!list.length) { out.innerHTML = '<p class="note">No artists match.</p>'; return; }
+    out.innerHTML = '<div class="ep"><ul class="artists" style="border-top:0">' + list.map(function (a) {
+      return '<li><div class="name">' + esc(a.name) + '<br><span class="eps">' +
+        a.eps.map(fmtDate).join(", ") + '</span></div>' + linkFor(a.name) + '</li>';
+    }).join("") + '</ul></div>';
+  }
+
+  function render() {
+    if (!episodes.length) { out.innerHTML = '<p class="note">No episodes yet.</p>'; return; }
+    view === "ep" ? renderEpisodes() : renderAll();
+  }
+
+  document.getElementById("q").addEventListener("input", function (ev) {
+    query = ev.target.value.trim().toLowerCase(); render();
+  });
+  var bEp = document.getElementById("vEp"), bAz = document.getElementById("vAz");
+  bEp.onclick = function () { view = "ep"; bEp.classList.add("on"); bAz.classList.remove("on"); render(); };
+  bAz.onclick = function () { view = "az"; bAz.classList.add("on"); bEp.classList.remove("on"); render(); };
+
+  fetch("data.json", { cache: "no-store" }).then(function (r) {
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  }).then(function (d) {
+    episodes = (d.episodes || []).slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; });
+    artists = d.artists || {};
+    if (d.updated) document.querySelector(".sub").textContent =
+      "Every artist from the 6 Music Mixtape with Emily Pilbeam. Last updated " + fmtDate(d.updated) + ".";
+    render();
+  }).catch(function () {
+    out.innerHTML = '<p class="note">Could not load the artist list. Try again later.</p>';
+  });
+})();
+</script>
+</body>
+</html>
