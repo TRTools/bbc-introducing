@@ -175,6 +175,51 @@
    "source": "Apple Podcasts episode text"
   },
   {
+   "date": "2026-09-18",
+   "title": "With a new Track of the Week from MM'99",
+   "tow": "MM'99",
+   "artists": [
+    "Monks",
+    "Sage Todz",
+    "Sweet Giant",
+    "cosign",
+    "c.o.m.b.",
+    "Dave Shurr",
+    "Pip Millett",
+    "Theo and Sahra",
+    "Fright Years",
+    "Alice Faye",
+    "British Birds",
+    "green star",
+    "ladylike",
+    "MM'99"
+   ],
+   "source": "iVoox and Listen Notes episode text"
+  },
+  {
+   "date": "2026-09-11",
+   "title": "With a new Track of the Week by cosign",
+   "tow": "cosign",
+   "artists": [
+    "Silver Gore",
+    "Kofi Stone",
+    "Group A.D.",
+    "R Loomes",
+    "Post Common",
+    "SHLUG",
+    "Esme Emerson",
+    "Matilda Finn Frances",
+    "Jewel Lasrado",
+    "LEMFRECK",
+    "George Dillon",
+    "Moon Idle",
+    "Curiosity Shop",
+    "pip",
+    "cosign"
+   ],
+   "source": "iVoox and Listen Notes episode text"
+  },
+  {
    "date": "2026-09-04",
    "title": "With a new Track of the Week by R Loomes",
    "tow": "R Loomes",
@@ -654,6 +699,30 @@
     "Kiosk"
    ],
    "source": "Pocket Casts and radio.it episode text"
+  },
+  {
+   "date": "2026-01-30",
+   "title": "The Itch, OneDa, Dead Dads Club and more!",
+   "tow": "The Itch",
+   "artists": [
+    "Bonuru",
+    "Treks",
+    "OneDa",
+    "comfort",
+    "holybones",
+    "Another; Country $$$$",
+    "Aimée Fatale",
+    "Vehicle",
+    "Shaking Hand",
+    "Heidi Curtis",
+    "crush velvet",
+    "Tallulah Argue",
+    "Dead Dads Club",
+    "Ella More",
+    "Book of Churches",
+    "The Itch"
+   ],
+   "source": "Pocket Casts episode text"
   },
   {
    "date": "2026-01-09",
@@ -2040,6 +2109,110 @@
   },
   "r-loomes": {
    "name": "R Loomes",
+   "status": "pending"
+  },
+  "bonuru": {
+   "name": "Bonuru",
+   "status": "pending"
+  },
+  "oneda": {
+   "name": "OneDa",
+   "status": "pending"
+  },
+  "comfort": {
+   "name": "comfort",
+   "status": "pending"
+  },
+  "vehicle": {
+   "name": "Vehicle",
+   "status": "pending"
+  },
+  "shaking-hand": {
+   "name": "Shaking Hand",
+   "status": "pending"
+  },
+  "crush-velvet": {
+   "name": "crush velvet",
+   "status": "pending"
+  },
+  "tallulah-argue": {
+   "name": "Tallulah Argue",
+   "status": "pending"
+  },
+  "book-of-churches": {
+   "name": "Book of Churches",
+   "status": "pending"
+  },
+  "post-common": {
+   "name": "Post Common",
+   "status": "pending"
+  },
+  "shlug": {
+   "name": "SHLUG",
+   "status": "pending"
+  },
+  "matilda-finn-frances": {
+   "name": "Matilda Finn Frances",
+   "status": "pending"
+  },
+  "jewel-lasrado": {
+   "name": "Jewel Lasrado",
+   "status": "pending"
+  },
+  "lemfreck": {
+   "name": "LEMFRECK",
+   "status": "pending"
+  },
+  "george-dillon": {
+   "name": "George Dillon",
+   "status": "pending"
+  },
+  "moon-idle": {
+   "name": "Moon Idle",
+   "status": "pending"
+  },
+  "curiosity-shop": {
+   "name": "Curiosity Shop",
+   "status": "pending"
+  },
+  "cosign": {
+   "name": "cosign",
+   "status": "pending"
+  },
+  "monks": {
+   "name": "Monks",
+   "status": "pending"
+  },
+  "sage-todz": {
+   "name": "Sage Todz",
+   "status": "pending"
+  },
+  "sweet-giant": {
+   "name": "Sweet Giant",
+   "status": "pending"
+  },
+  "c-o-m-b": {
+   "name": "c.o.m.b.",
+   "status": "pending"
+  },
+  "dave-shurr": {
+   "name": "Dave Shurr",
+   "status": "pending"
+  },
+  "pip-millett": {
+   "name": "Pip Millett",
+   "status": "pending"
+  },
+  "theo-and-sahra": {
+   "name": "Theo and Sahra",
+   "status": "pending"
+  },
+  "fright-years": {
+   "name": "Fright Years",
+   "status": "pending"
+  },
+  "british-birds": {
+   "name": "British Birds",
    "status": "pending"
   }
  }
