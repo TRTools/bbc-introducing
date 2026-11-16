@@ -88,7 +88,7 @@
     var yt = safeUrl(a.youtube), bc = safeUrl(a.bandcamp);
     if (yt) return '<a class="link yt" href="' + esc(yt) + '" target="_blank" rel="noopener">YouTube</a>';
     if (bc) return '<a class="link bc" href="' + esc(bc) + '" target="_blank" rel="noopener">Bandcamp</a>';
-    var q = encodeURIComponent('"' + lead(name) + '" BBC Introducing');
+    var q = encodeURIComponent('"' + lead(name) + '"');
     var tip = a.status === "none" ? "No channel found. Opens a YouTube search." : "Not checked yet. Opens a YouTube search.";
     return '<a class="link pend" title="' + tip + '" href="https://www.youtube.com/results?search_query=' + q + '" target="_blank" rel="noopener">Search</a>';
   }
