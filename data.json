@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "episodes": [
   {
    "date": "2026-11-13",
@@ -173,6 +173,144 @@
     "Sin Clair"
    ],
    "source": "Apple Podcasts episode text"
+  },
+  {
+   "date": "2026-03-06",
+   "title": "With a new Track of the Week by Konyikeh",
+   "tow": "Konyikeh",
+   "artists": [
+    "Good News",
+    "Pigeon",
+    "Bathing Suits",
+    "Max Winter",
+    "SALO feat. Isaiah Hull",
+    "Marnie Glum",
+    "Unlucky",
+    "No Spinoza",
+    "Wax Head",
+    "Fíobha",
+    "Jessie Marcella",
+    "Iona Luke",
+    "Morgan Harper-Jones",
+    "Emily Francis Trio",
+    "Konyikeh"
+   ],
+   "source": "radio.it episode text"
+  },
+  {
+   "date": "2026-02-27",
+   "title": "With a new Track of the Week by Max Winter",
+   "tow": "Max Winter",
+   "artists": [
+    "LIFE",
+    "Shale",
+    "WineMom",
+    "MWSOG",
+    "menig",
+    "Crystal Murray",
+    "1000 Rabbits",
+    "ELSAS",
+    "White Flowers",
+    "Ugly Dave",
+    "Earth Farm",
+    "this rainy decade",
+    "Lande Hekt",
+    "Maya Law & Freya Roy",
+    "ladylike",
+    "Max Winter"
+   ],
+   "source": "radio.it episode text"
+  },
+  {
+   "date": "2026-02-20",
+   "title": "PEM, MWSOG, 1-800 GIRLS and more!",
+   "tow": "MWSOG",
+   "artists": [
+    "1-800 GIRLS",
+    "Kloyd",
+    "Blossom Caldarone",
+    "Kiosk",
+    "Conscious Pilot",
+    "The New Cut",
+    "Robyn Florence & DAVIES",
+    "improvjazzlab.",
+    "Joshua Burnside",
+    "Natalie Wildgoose",
+    "Alice Costelloe",
+    "PEM",
+    "MWSOG"
+   ],
+   "source": "radio.it episode text (Featured Artist PEM; a second copy of the text lists Robyn Florence without & DAVIES)"
+  },
+  {
+   "date": "2026-02-13",
+   "title": "With a new Track of the Week by Kiosk!",
+   "tow": "Kiosk",
+   "artists": [
+    "NeONE The Wonderer",
+    "Franz Von x SketchTheWave x Kin Louie",
+    "ledbyher",
+    "Yaz León",
+    "Girl Group",
+    "Brodie Milner",
+    "Burglar",
+    "Heart and Mouth",
+    "Ellen Beth Abdi",
+    "pyncher",
+    "TTSSFU",
+    "Madeline Tully",
+    "Waterpistol",
+    "Ellur",
+    "Kiosk"
+   ],
+   "source": "Pocket Casts and radio.it episode text"
+  },
+  {
+   "date": "2026-01-09",
+   "title": "With a Track of the Week from Ellur",
+   "tow": "Ellur",
+   "artists": [
+    "Alewya",
+    "Emmeline",
+    "You Are Steve",
+    "tummyache",
+    "USNABOY",
+    "MAUVEY feat. FREQ MOTIF",
+    "Grove",
+    "RIYA",
+    "Crimewave",
+    "Heartcoregirl",
+    "Sleepy Gene",
+    "MELLT",
+    "Joshua Burnside",
+    "The Man, The Myth, The Meatslab",
+    "Ellur"
+   ],
+   "source": "radio.de episode text"
+  },
+  {
+   "date": "2026-01-02",
+   "title": "Hot for 2026!",
+   "tow": null,
+   "artists": [
+    "Bathing Suits",
+    "The Family Battenberg",
+    "Florence Road",
+    "TTSSFU",
+    "Group A.D.",
+    "Formal Sppeedwear",
+    "Maddie Ashman",
+    "Girl Group",
+    "Dead Dads Club",
+    "vegas water taxi",
+    "TURNSPIT",
+    "ANOTHER; COUNTRY $$$$",
+    "Elanor Moss",
+    "Dove Ellis",
+    "Lemondaze",
+    "Pollyfromthedirt"
+   ],
+   "source": "Pocket Casts and radio.de episode text"
   }
  ],
  "artists": {
@@ -588,6 +726,302 @@
   },
   "zoe-cure": {
    "name": "Zoe Cure",
+   "status": "pending"
+  },
+  "florence-road": {
+   "name": "Florence Road",
+   "status": "pending"
+  },
+  "ttssfu": {
+   "name": "TTSSFU",
+   "status": "pending"
+  },
+  "formal-sppeedwear": {
+   "name": "Formal Sppeedwear",
+   "status": "pending"
+  },
+  "maddie-ashman": {
+   "name": "Maddie Ashman",
+   "status": "pending"
+  },
+  "dead-dads-club": {
+   "name": "Dead Dads Club",
+   "status": "pending"
+  },
+  "vegas-water-taxi": {
+   "name": "vegas water taxi",
+   "status": "pending"
+  },
+  "turnspit": {
+   "name": "TURNSPIT",
+   "status": "pending"
+  },
+  "elanor-moss": {
+   "name": "Elanor Moss",
+   "status": "pending"
+  },
+  "dove-ellis": {
+   "name": "Dove Ellis",
+   "status": "pending"
+  },
+  "lemondaze": {
+   "name": "Lemondaze",
+   "status": "pending"
+  },
+  "pollyfromthedirt": {
+   "name": "Pollyfromthedirt",
+   "status": "pending"
+  },
+  "alewya": {
+   "name": "Alewya",
+   "status": "pending"
+  },
+  "emmeline": {
+   "name": "Emmeline",
+   "status": "pending"
+  },
+  "you-are-steve": {
+   "name": "You Are Steve",
+   "status": "pending"
+  },
+  "tummyache": {
+   "name": "tummyache",
+   "status": "pending"
+  },
+  "usnaboy": {
+   "name": "USNABOY",
+   "status": "pending"
+  },
+  "mauvey": {
+   "name": "MAUVEY",
+   "status": "pending"
+  },
+  "grove": {
+   "name": "Grove",
+   "status": "pending"
+  },
+  "riya": {
+   "name": "RIYA",
+   "status": "pending"
+  },
+  "crimewave": {
+   "name": "Crimewave",
+   "status": "pending"
+  },
+  "heartcoregirl": {
+   "name": "Heartcoregirl",
+   "status": "pending"
+  },
+  "sleepy-gene": {
+   "name": "Sleepy Gene",
+   "status": "pending"
+  },
+  "mellt": {
+   "name": "MELLT",
+   "status": "pending"
+  },
+  "joshua-burnside": {
+   "name": "Joshua Burnside",
+   "status": "pending"
+  },
+  "the-man-the-myth-the-meatslab": {
+   "name": "The Man, The Myth, The Meatslab",
+   "status": "pending"
+  },
+  "ellur": {
+   "name": "Ellur",
+   "status": "pending"
+  },
+  "neone-the-wonderer": {
+   "name": "NeONE The Wonderer",
+   "status": "pending"
+  },
+  "franz-von-x-sketchthewave-x-kin-louie": {
+   "name": "Franz Von x SketchTheWave x Kin Louie",
+   "status": "pending"
+  },
+  "yaz-leon": {
+   "name": "Yaz León",
+   "status": "pending"
+  },
+  "brodie-milner": {
+   "name": "Brodie Milner",
+   "status": "pending"
+  },
+  "burglar": {
+   "name": "Burglar",
+   "status": "pending"
+  },
+  "heart-and-mouth": {
+   "name": "Heart and Mouth",
+   "status": "pending"
+  },
+  "ellen-beth-abdi": {
+   "name": "Ellen Beth Abdi",
+   "status": "pending"
+  },
+  "pyncher": {
+   "name": "pyncher",
+   "status": "pending"
+  },
+  "madeline-tully": {
+   "name": "Madeline Tully",
+   "status": "pending"
+  },
+  "waterpistol": {
+   "name": "Waterpistol",
+   "status": "pending"
+  },
+  "1-800-girls": {
+   "name": "1-800 GIRLS",
+   "status": "pending"
+  },
+  "kloyd": {
+   "name": "Kloyd",
+   "status": "pending"
+  },
+  "blossom-caldarone": {
+   "name": "Blossom Caldarone",
+   "status": "pending"
+  },
+  "conscious-pilot": {
+   "name": "Conscious Pilot",
+   "status": "pending"
+  },
+  "the-new-cut": {
+   "name": "The New Cut",
+   "status": "pending"
+  },
+  "robyn-florence-davies": {
+   "name": "Robyn Florence & DAVIES",
+   "status": "pending"
+  },
+  "improvjazzlab": {
+   "name": "improvjazzlab.",
+   "status": "pending"
+  },
+  "natalie-wildgoose": {
+   "name": "Natalie Wildgoose",
+   "status": "pending"
+  },
+  "alice-costelloe": {
+   "name": "Alice Costelloe",
+   "status": "pending"
+  },
+  "pem": {
+   "name": "PEM",
+   "status": "pending"
+  },
+  "mwsog": {
+   "name": "MWSOG",
+   "status": "pending"
+  },
+  "life": {
+   "name": "LIFE",
+   "status": "pending"
+  },
+  "shale": {
+   "name": "Shale",
+   "status": "pending"
+  },
+  "winemom": {
+   "name": "WineMom",
+   "status": "pending"
+  },
+  "menig": {
+   "name": "menig",
+   "status": "pending"
+  },
+  "crystal-murray": {
+   "name": "Crystal Murray",
+   "status": "pending"
+  },
+  "1000-rabbits": {
+   "name": "1000 Rabbits",
+   "status": "pending"
+  },
+  "elsas": {
+   "name": "ELSAS",
+   "status": "pending"
+  },
+  "ugly-dave": {
+   "name": "Ugly Dave",
+   "status": "pending"
+  },
+  "earth-farm": {
+   "name": "Earth Farm",
+   "status": "pending"
+  },
+  "this-rainy-decade": {
+   "name": "this rainy decade",
+   "status": "pending"
+  },
+  "lande-hekt": {
+   "name": "Lande Hekt",
+   "status": "pending"
+  },
+  "maya-law-freya-roy": {
+   "name": "Maya Law & Freya Roy",
+   "status": "pending"
+  },
+  "ladylike": {
+   "name": "ladylike",
+   "status": "pending"
+  },
+  "max-winter": {
+   "name": "Max Winter",
+   "status": "pending"
+  },
+  "good-news": {
+   "name": "Good News",
+   "status": "pending"
+  },
+  "pigeon": {
+   "name": "Pigeon",
+   "status": "pending"
+  },
+  "salo": {
+   "name": "SALO",
+   "status": "pending"
+  },
+  "marnie-glum": {
+   "name": "Marnie Glum",
+   "status": "pending"
+  },
+  "unlucky": {
+   "name": "Unlucky",
+   "status": "pending"
+  },
+  "no-spinoza": {
+   "name": "No Spinoza",
+   "status": "pending"
+  },
+  "wax-head": {
+   "name": "Wax Head",
+   "status": "pending"
+  },
+  "fiobha": {
+   "name": "Fíobha",
+   "status": "pending"
+  },
+  "jessie-marcella": {
+   "name": "Jessie Marcella",
+   "status": "pending"
+  },
+  "iona-luke": {
+   "name": "Iona Luke",
+   "status": "pending"
+  },
+  "morgan-harper-jones": {
+   "name": "Morgan Harper-Jones",
+   "status": "pending"
+  },
+  "emily-francis-trio": {
+   "name": "Emily Francis Trio",
+   "status": "pending"
+  },
+  "konyikeh": {
+   "name": "Konyikeh",
    "status": "pending"
   }
  }
