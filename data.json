@@ -175,6 +175,140 @@
    "source": "Apple Podcasts episode text"
   },
   {
+   "date": "2026-07-17",
+   "title": "With a new Track of the Week from The Kitchen Sink Band",
+   "tow": "The Kitchen Sink Band",
+   "artists": [
+    "Eva Lazarus",
+    "Ruti",
+    "Gen and The Degenerates",
+    "Noise of Angels",
+    "Mouth Ulcers",
+    "Fishwife",
+    "Cordelia Gartside",
+    "walt disco",
+    "Getdown Services",
+    "SpaceAcre",
+    "Webmoms",
+    "Yung Toro",
+    "Oscar Dunbar",
+    "The Kitchen Sink Band"
+   ],
+   "source": "iVoox episode text"
+  },
+  {
+   "date": "2026-07-10",
+   "title": "With a new Track of the Week from Noise of Angels",
+   "tow": "Noise of Angels",
+   "artists": [
+    "Junior Simba feat. Manz",
+    "Sophia Harari & Donsurf",
+    "Abbie Ozard",
+    "Oscar Browne",
+    "Spike",
+    "Arthur Black",
+    "Fatale",
+    "Nano Kino",
+    "Joyeria",
+    "FLETCHR FLETCHR",
+    "Czafari.",
+    "LFay",
+    "Warahenege",
+    "SALO",
+    "Noise of Angels"
+   ],
+   "source": "iVoox episode text"
+  },
+  {
+   "date": "2026-07-03",
+   "title": "Introducing our Featured Artist: Night Swimming",
+   "tow": null,
+   "artists": [
+    "pyncher",
+    "Oscar Dunbar",
+    "Big Fear",
+    "Speedial",
+    "Kloyd",
+    "menig",
+    "GAÏA",
+    "Nani Porenta",
+    "Louis Grace",
+    "Daniel Maple",
+    "Oscar Browne",
+    "Night Swimming"
+   ],
+   "source": "iVoox episode text (Featured Artist Night Swimming; the text also names a Track of the Week by Oscar Browne)"
+  },
+  {
+   "date": "2026-05-08",
+   "title": "With a new Track of the Week from Night Swimming",
+   "tow": "Night Swimming",
+   "artists": [
+    "Tom A. Smith feat. Rowetta",
+    "Thaïs Ray",
+    "Charlie Floyd",
+    "SISTRA",
+    "Cutscene",
+    "lots of hands",
+    "Melanie Baker",
+    "Doss",
+    "Ben Kidson & Good Health Good Wealth",
+    "Maya Law",
+    "The Hackney Attic",
+    "Miller Blue",
+    "ADJUA",
+    "Fran Lusty",
+    "The Early Purple",
+    "Night Swimming"
+   ],
+   "source": "radio.de episode text"
+  },
+  {
+   "date": "2026-05-01",
+   "title": "With a new Track of the Week by SISTRA",
+   "tow": "SISTRA",
+   "artists": [
+    "Prima Queen",
+    "Treks",
+    "Aifric",
+    "yottie",
+    "F3miii",
+    "Anna Blaise",
+    "White Flowers",
+    "Tooth",
+    "Big Long Sun",
+    "ADJUA",
+    "Bathing Suits",
+    "The Itch",
+    "Dermot Henry",
+    "Myer U Clark",
+    "Tokomololo",
+    "SISTRA"
+   ],
+   "source": "radio.de episode text"
+  },
+  {
+   "date": "2026-04-24",
+   "title": "MWSOG are our featured artist this month",
+   "tow": "yottie",
+   "artists": [
+    "pyncher",
+    "Max Winter feat. Tony Bontana",
+    "holybones feat. Baxter Dury",
+    "Chinwe",
+    "Girls of the Internet feat. DJ Bone",
+    "Paal Singh",
+    "Gabby Rivers",
+    "Knats",
+    "Lonnie Gunn",
+    "Bea Malka",
+    "NAVINA",
+    "MWSOG",
+    "yottie"
+   ],
+   "source": "radio.de episode text (Featured Artist MWSOG)"
+  },
+  {
    "date": "2026-04-17",
    "title": "With a new Track of the Week by Chinwe",
    "tow": "Chinwe",
@@ -1332,6 +1466,226 @@
   },
   "chinwe": {
    "name": "Chinwe",
+   "status": "pending"
+  },
+  "holybones": {
+   "name": "holybones",
+   "status": "pending"
+  },
+  "girls-of-the-internet": {
+   "name": "Girls of the Internet",
+   "status": "pending"
+  },
+  "paal-singh": {
+   "name": "Paal Singh",
+   "status": "pending"
+  },
+  "gabby-rivers": {
+   "name": "Gabby Rivers",
+   "status": "pending"
+  },
+  "knats": {
+   "name": "Knats",
+   "status": "pending"
+  },
+  "lonnie-gunn": {
+   "name": "Lonnie Gunn",
+   "status": "pending"
+  },
+  "bea-malka": {
+   "name": "Bea Malka",
+   "status": "pending"
+  },
+  "navina": {
+   "name": "NAVINA",
+   "status": "pending"
+  },
+  "yottie": {
+   "name": "yottie",
+   "status": "pending"
+  },
+  "prima-queen": {
+   "name": "Prima Queen",
+   "status": "pending"
+  },
+  "treks": {
+   "name": "Treks",
+   "status": "pending"
+  },
+  "aifric": {
+   "name": "Aifric",
+   "status": "pending"
+  },
+  "f3miii": {
+   "name": "F3miii",
+   "status": "pending"
+  },
+  "anna-blaise": {
+   "name": "Anna Blaise",
+   "status": "pending"
+  },
+  "tooth": {
+   "name": "Tooth",
+   "status": "pending"
+  },
+  "big-long-sun": {
+   "name": "Big Long Sun",
+   "status": "pending"
+  },
+  "the-itch": {
+   "name": "The Itch",
+   "status": "pending"
+  },
+  "myer-u-clark": {
+   "name": "Myer U Clark",
+   "status": "pending"
+  },
+  "sistra": {
+   "name": "SISTRA",
+   "status": "pending"
+  },
+  "tom-a-smith": {
+   "name": "Tom A. Smith",
+   "status": "pending"
+  },
+  "thais-ray": {
+   "name": "Thaïs Ray",
+   "status": "pending"
+  },
+  "charlie-floyd": {
+   "name": "Charlie Floyd",
+   "status": "pending"
+  },
+  "cutscene": {
+   "name": "Cutscene",
+   "status": "pending"
+  },
+  "ben-kidson-good-health-good-wealth": {
+   "name": "Ben Kidson & Good Health Good Wealth",
+   "status": "pending"
+  },
+  "maya-law": {
+   "name": "Maya Law",
+   "status": "pending"
+  },
+  "miller-blue": {
+   "name": "Miller Blue",
+   "status": "pending"
+  },
+  "fran-lusty": {
+   "name": "Fran Lusty",
+   "status": "pending"
+  },
+  "the-early-purple": {
+   "name": "The Early Purple",
+   "status": "pending"
+  },
+  "night-swimming": {
+   "name": "Night Swimming",
+   "status": "pending"
+  },
+  "oscar-dunbar": {
+   "name": "Oscar Dunbar",
+   "status": "pending"
+  },
+  "big-fear": {
+   "name": "Big Fear",
+   "status": "pending"
+  },
+  "speedial": {
+   "name": "Speedial",
+   "status": "pending"
+  },
+  "gaia": {
+   "name": "GAÏA",
+   "status": "pending"
+  },
+  "nani-porenta": {
+   "name": "Nani Porenta",
+   "status": "pending"
+  },
+  "louis-grace": {
+   "name": "Louis Grace",
+   "status": "pending"
+  },
+  "daniel-maple": {
+   "name": "Daniel Maple",
+   "status": "pending"
+  },
+  "junior-simba": {
+   "name": "Junior Simba",
+   "status": "pending"
+  },
+  "sophia-harari-donsurf": {
+   "name": "Sophia Harari & Donsurf",
+   "status": "pending"
+  },
+  "abbie-ozard": {
+   "name": "Abbie Ozard",
+   "status": "pending"
+  },
+  "arthur-black": {
+   "name": "Arthur Black",
+   "status": "pending"
+  },
+  "fatale": {
+   "name": "Fatale",
+   "status": "pending"
+  },
+  "joyeria": {
+   "name": "Joyeria",
+   "status": "pending"
+  },
+  "fletchr-fletchr": {
+   "name": "FLETCHR FLETCHR",
+   "status": "pending"
+  },
+  "czafari": {
+   "name": "Czafari.",
+   "status": "pending"
+  },
+  "warahenege": {
+   "name": "Warahenege",
+   "status": "pending"
+  },
+  "noise-of-angels": {
+   "name": "Noise of Angels",
+   "status": "pending"
+  },
+  "eva-lazarus": {
+   "name": "Eva Lazarus",
+   "status": "pending"
+  },
+  "ruti": {
+   "name": "Ruti",
+   "status": "pending"
+  },
+  "gen-and-the-degenerates": {
+   "name": "Gen and The Degenerates",
+   "status": "pending"
+  },
+  "mouth-ulcers": {
+   "name": "Mouth Ulcers",
+   "status": "pending"
+  },
+  "fishwife": {
+   "name": "Fishwife",
+   "status": "pending"
+  },
+  "walt-disco": {
+   "name": "walt disco",
+   "status": "pending"
+  },
+  "spaceacre": {
+   "name": "SpaceAcre",
+   "status": "pending"
+  },
+  "yung-toro": {
+   "name": "Yung Toro",
+   "status": "pending"
+  },
+  "the-kitchen-sink-band": {
+   "name": "The Kitchen Sink Band",
    "status": "pending"
   }
  }
