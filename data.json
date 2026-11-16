@@ -175,6 +175,140 @@
    "source": "Apple Podcasts episode text"
   },
   {
+   "date": "2026-09-04",
+   "title": "With a new Track of the Week by R Loomes",
+   "tow": "R Loomes",
+   "artists": [
+    "The Luca",
+    "Spanish Horses",
+    "THE NINTH WAVE",
+    "birdseed.",
+    "Saskia",
+    "Eden May",
+    "Slobject",
+    "improvazzlab. feat. Taylr",
+    "Jake Whiskin",
+    "Mr Speed",
+    "SNM",
+    "People Laughing",
+    "Monkeys with Internet",
+    "Martha Hill",
+    "R Loomes"
+   ],
+   "source": "iVoox and Listen Notes episode text"
+  },
+  {
+   "date": "2026-08-28",
+   "title": "Phoebe Green, The Marches, Bea Malka and more!",
+   "tow": "Birdseed",
+   "artists": [
+    "Venus Grrrls",
+    "Dylan Bradley and the Heat",
+    "Phoebe Green",
+    "The Marches",
+    "Bea Malka",
+    "Iona Luke",
+    "Helena Gao",
+    "Isabella Richardson",
+    "The Wild Infinite",
+    "Two Blinks",
+    "Jo From School",
+    "Heron Red",
+    "Pip",
+    "Hannah-Morgan",
+    "Birdseed"
+   ],
+   "source": "iVoox episode text (guest host Taylor Johnson)"
+  },
+  {
+   "date": "2026-08-21",
+   "title": "Bea Malka, Noise of Angels, Tokomololo and more!",
+   "tow": "Bea Malka",
+   "artists": [
+    "Noise of Angels",
+    "Tokomololo",
+    "Oscar November",
+    "Baby Deltic",
+    "The Great Pleasure",
+    "Nathan Ball",
+    "The Youth Play",
+    "Nano Kino",
+    "DOG DAYS",
+    "Forget Them Wendy",
+    "Los Blancos",
+    "Bleep Test",
+    "the FOLK DRAMA",
+    "Bea Malka"
+   ],
+   "source": "iVoox episode text"
+  },
+  {
+   "date": "2026-08-14",
+   "title": "Baby Deltic, Anna Bradley, Gold Cup and more!",
+   "tow": "Baby Deltic",
+   "artists": [
+    "GANS",
+    "Do Nothing",
+    "Jo from School",
+    "Neighbour Club",
+    "CYN CWSG",
+    "Green Star",
+    "Anna Bradley",
+    "Rory Rockett",
+    "Gold Cup",
+    "The Family Battenburg",
+    "Jake Whiskin",
+    "corto.alto",
+    "Maddie Ashman",
+    "Baby Deltic"
+   ],
+   "source": "iVoox episode text (corto.alto and Maddie Ashman from BBC Introducing at The Glasshouse: Live at the Proms)"
+  },
+  {
+   "date": "2026-08-07",
+   "title": "Formal Sppeedwear, Neighbour Club, Mr. Fish and more!",
+   "tow": "Neighbour Club",
+   "artists": [
+    "ALA.NI",
+    "Marla Kether",
+    "Mr. Fish",
+    "Maddie Ashman",
+    "Billy Sharp",
+    "Roan Stripp",
+    "Sisters",
+    "The Healing Power of Horses",
+    "Precious Metals",
+    "Formal Sppeedwear",
+    "Thandii",
+    "Yas. ft. Cloudman",
+    "ADJUA",
+    "Eddie Doyle",
+    "Neighbour Club"
+   ],
+   "source": "iVoox episode text"
+  },
+  {
+   "date": "2026-07-24",
+   "title": "With a new Track of the Week by IMISSMYMOM",
+   "tow": "IMISSMYMOM",
+   "artists": [
+    "Bau Cat",
+    "GWEN",
+    "walt disco",
+    "The Kitchen Sink Band",
+    "Shadowman",
+    "MWSOG",
+    "Knats",
+    "August Charles",
+    "Elanor Moss",
+    "Cether",
+    "Big Red",
+    "Long Distance Runner",
+    "IMISSMYMOM"
+   ],
+   "source": "iVoox episode text"
+  },
+  {
    "date": "2026-07-17",
    "title": "With a new Track of the Week from The Kitchen Sink Band",
    "tow": "The Kitchen Sink Band",
@@ -1686,6 +1820,226 @@
   },
   "the-kitchen-sink-band": {
    "name": "The Kitchen Sink Band",
+   "status": "pending"
+  },
+  "bau-cat": {
+   "name": "Bau Cat",
+   "status": "pending"
+  },
+  "shadowman": {
+   "name": "Shadowman",
+   "status": "pending"
+  },
+  "august-charles": {
+   "name": "August Charles",
+   "status": "pending"
+  },
+  "cether": {
+   "name": "Cether",
+   "status": "pending"
+  },
+  "big-red": {
+   "name": "Big Red",
+   "status": "pending"
+  },
+  "imissmymom": {
+   "name": "IMISSMYMOM",
+   "status": "pending"
+  },
+  "ala-ni": {
+   "name": "ALA.NI",
+   "status": "pending"
+  },
+  "marla-kether": {
+   "name": "Marla Kether",
+   "status": "pending"
+  },
+  "mr-fish": {
+   "name": "Mr. Fish",
+   "status": "pending"
+  },
+  "billy-sharp": {
+   "name": "Billy Sharp",
+   "status": "pending"
+  },
+  "roan-stripp": {
+   "name": "Roan Stripp",
+   "status": "pending"
+  },
+  "precious-metals": {
+   "name": "Precious Metals",
+   "status": "pending"
+  },
+  "thandii": {
+   "name": "Thandii",
+   "status": "pending"
+  },
+  "yas-ft-cloudman": {
+   "name": "Yas. ft. Cloudman",
+   "status": "pending"
+  },
+  "neighbour-club": {
+   "name": "Neighbour Club",
+   "status": "pending"
+  },
+  "do-nothing": {
+   "name": "Do Nothing",
+   "status": "pending"
+  },
+  "jo-from-school": {
+   "name": "Jo from School",
+   "status": "pending"
+  },
+  "green-star": {
+   "name": "Green Star",
+   "status": "pending"
+  },
+  "anna-bradley": {
+   "name": "Anna Bradley",
+   "status": "pending"
+  },
+  "rory-rockett": {
+   "name": "Rory Rockett",
+   "status": "pending"
+  },
+  "gold-cup": {
+   "name": "Gold Cup",
+   "status": "pending"
+  },
+  "the-family-battenburg": {
+   "name": "The Family Battenburg",
+   "status": "pending"
+  },
+  "jake-whiskin": {
+   "name": "Jake Whiskin",
+   "status": "pending"
+  },
+  "corto-alto": {
+   "name": "corto.alto",
+   "status": "pending"
+  },
+  "baby-deltic": {
+   "name": "Baby Deltic",
+   "status": "pending"
+  },
+  "oscar-november": {
+   "name": "Oscar November",
+   "status": "pending"
+  },
+  "the-great-pleasure": {
+   "name": "The Great Pleasure",
+   "status": "pending"
+  },
+  "nathan-ball": {
+   "name": "Nathan Ball",
+   "status": "pending"
+  },
+  "the-youth-play": {
+   "name": "The Youth Play",
+   "status": "pending"
+  },
+  "forget-them-wendy": {
+   "name": "Forget Them Wendy",
+   "status": "pending"
+  },
+  "los-blancos": {
+   "name": "Los Blancos",
+   "status": "pending"
+  },
+  "the-folk-drama": {
+   "name": "the FOLK DRAMA",
+   "status": "pending"
+  },
+  "venus-grrrls": {
+   "name": "Venus Grrrls",
+   "status": "pending"
+  },
+  "dylan-bradley-and-the-heat": {
+   "name": "Dylan Bradley and the Heat",
+   "status": "pending"
+  },
+  "phoebe-green": {
+   "name": "Phoebe Green",
+   "status": "pending"
+  },
+  "the-marches": {
+   "name": "The Marches",
+   "status": "pending"
+  },
+  "helena-gao": {
+   "name": "Helena Gao",
+   "status": "pending"
+  },
+  "isabella-richardson": {
+   "name": "Isabella Richardson",
+   "status": "pending"
+  },
+  "the-wild-infinite": {
+   "name": "The Wild Infinite",
+   "status": "pending"
+  },
+  "two-blinks": {
+   "name": "Two Blinks",
+   "status": "pending"
+  },
+  "heron-red": {
+   "name": "Heron Red",
+   "status": "pending"
+  },
+  "pip": {
+   "name": "Pip",
+   "status": "pending"
+  },
+  "hannah-morgan": {
+   "name": "Hannah-Morgan",
+   "status": "pending"
+  },
+  "birdseed": {
+   "name": "Birdseed",
+   "status": "pending"
+  },
+  "the-luca": {
+   "name": "The Luca",
+   "status": "pending"
+  },
+  "saskia": {
+   "name": "Saskia",
+   "status": "pending"
+  },
+  "eden-may": {
+   "name": "Eden May",
+   "status": "pending"
+  },
+  "slobject": {
+   "name": "Slobject",
+   "status": "pending"
+  },
+  "improvazzlab": {
+   "name": "improvazzlab.",
+   "status": "pending"
+  },
+  "mr-speed": {
+   "name": "Mr Speed",
+   "status": "pending"
+  },
+  "snm": {
+   "name": "SNM",
+   "status": "pending"
+  },
+  "people-laughing": {
+   "name": "People Laughing",
+   "status": "pending"
+  },
+  "monkeys-with-internet": {
+   "name": "Monkeys with Internet",
+   "status": "pending"
+  },
+  "martha-hill": {
+   "name": "Martha Hill",
+   "status": "pending"
+  },
+  "r-loomes": {
+   "name": "R Loomes",
    "status": "pending"
   }
  }
