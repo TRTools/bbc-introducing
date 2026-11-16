@@ -175,6 +175,128 @@
    "source": "Apple Podcasts episode text"
   },
   {
+   "date": "2026-04-17",
+   "title": "With a new Track of the Week by Chinwe",
+   "tow": "Chinwe",
+   "artists": [
+    "Cowboy Hunters",
+    "Wax Head",
+    "Modern Woman",
+    "Orla Noble",
+    "lavender",
+    "Natalie Wildgoose",
+    "Lovely Assistant",
+    "The Hackney Attic",
+    "Slowe",
+    "Frankie Archer",
+    "Good News",
+    "Rejoicein4k / Hannah Thompson",
+    "First Day of Spring",
+    "Note feat. LAOD",
+    "Chinwe"
+   ],
+   "source": "radio.de episode text"
+  },
+  {
+   "date": "2026-04-10",
+   "title": "With a new Track of the Week by Orla Noble",
+   "tow": "Orla Noble",
+   "artists": [
+    "Getdown Services",
+    "Treeboy & Arc",
+    "Pigeon",
+    "Group A.D.",
+    "Blood Wizard",
+    "Nano Kino",
+    "Silver Gore",
+    "Kofi Stone",
+    "seegz",
+    "1000 Rabbits",
+    "Lifeloose",
+    "Martial Arts",
+    "Brodie Milner",
+    "Orla Noble"
+   ],
+   "source": "radio.de and radio.at episode text"
+  },
+  {
+   "date": "2026-04-03",
+   "title": "With a new Track of the Week by Group A.D.",
+   "tow": "Group A.D.",
+   "artists": [
+    "Raynor",
+    "Ella More",
+    "deary",
+    "Ex-Family",
+    "BARRELL JONES feat. Nubya Garcia",
+    "Lizzie Reid",
+    "Alice Faye",
+    "Joshua Burnside",
+    "Alfresco Love Sounds",
+    "Bloodworm",
+    "Heidi Curtis",
+    "Wesley Bennett",
+    "Group A.D."
+   ],
+   "source": "radio.at episode text"
+  },
+  {
+   "date": "2026-03-27",
+   "title": "With Ellen Beth Abdi, pyncher, and TTSSFU from the 6 Music Festival!",
+   "tow": null,
+   "artists": [
+    "Ellen Beth Abdi",
+    "pyncher",
+    "TTSSFU"
+   ],
+   "source": "radio.at episode text (6 Music Festival special)"
+  },
+  {
+   "date": "2026-03-20",
+   "title": "With a new Track of the Week by Ex-Family",
+   "tow": "Ex-Family",
+   "artists": [
+    "Lime Garden",
+    "Really Good Time",
+    "CLT DRP",
+    "Treeboy & Arc",
+    "HITMEN",
+    "The Orielles",
+    "ladylike",
+    "Dogsbody",
+    "ADJUA",
+    "Adult DVD",
+    "Chalk",
+    "MAX RAD",
+    "Of Iyrn",
+    "Ex-Family"
+   ],
+   "source": "radio.at episode text"
+  },
+  {
+   "date": "2026-03-13",
+   "title": "With a new Track of the Week by Treeboy & Arc",
+   "tow": "Treeboy & Arc",
+   "artists": [
+    "aembr",
+    "Clara Pople",
+    "Aby Coulibaly",
+    "Konyikeh",
+    "IRKED",
+    "Norman D. Loco",
+    "Aimée Fatale",
+    "two blinks, i love you",
+    "TIDETIED",
+    "Heart and Mouth",
+    "Melanie Baker",
+    "Cholly / Rosie Robinson",
+    "Ellen Beth Abdi",
+    "TC & The Groove Family",
+    "Treeboy & Arc"
+   ],
+   "source": "radio.at episode text"
+  },
+  {
    "date": "2026-03-06",
    "title": "With a new Track of the Week by Konyikeh",
    "tow": "Konyikeh",
@@ -1022,6 +1144,194 @@
   },
   "konyikeh": {
    "name": "Konyikeh",
+   "status": "pending"
+  },
+  "aembr": {
+   "name": "aembr",
+   "status": "pending"
+  },
+  "clara-pople": {
+   "name": "Clara Pople",
+   "status": "pending"
+  },
+  "aby-coulibaly": {
+   "name": "Aby Coulibaly",
+   "status": "pending"
+  },
+  "irked": {
+   "name": "IRKED",
+   "status": "pending"
+  },
+  "norman-d-loco": {
+   "name": "Norman D. Loco",
+   "status": "pending"
+  },
+  "aimee-fatale": {
+   "name": "Aimée Fatale",
+   "status": "pending"
+  },
+  "tidetied": {
+   "name": "TIDETIED",
+   "status": "pending"
+  },
+  "melanie-baker": {
+   "name": "Melanie Baker",
+   "status": "pending"
+  },
+  "cholly-rosie-robinson": {
+   "name": "Cholly / Rosie Robinson",
+   "status": "pending"
+  },
+  "tc-the-groove-family": {
+   "name": "TC & The Groove Family",
+   "status": "pending"
+  },
+  "treeboy-arc": {
+   "name": "Treeboy & Arc",
+   "status": "pending"
+  },
+  "lime-garden": {
+   "name": "Lime Garden",
+   "status": "pending"
+  },
+  "really-good-time": {
+   "name": "Really Good Time",
+   "status": "pending"
+  },
+  "clt-drp": {
+   "name": "CLT DRP",
+   "status": "pending"
+  },
+  "hitmen": {
+   "name": "HITMEN",
+   "status": "pending"
+  },
+  "the-orielles": {
+   "name": "The Orielles",
+   "status": "pending"
+  },
+  "dogsbody": {
+   "name": "Dogsbody",
+   "status": "pending"
+  },
+  "adult-dvd": {
+   "name": "Adult DVD",
+   "status": "pending"
+  },
+  "chalk": {
+   "name": "Chalk",
+   "status": "pending"
+  },
+  "max-rad": {
+   "name": "MAX RAD",
+   "status": "pending"
+  },
+  "of-iyrn": {
+   "name": "Of Iyrn",
+   "status": "pending"
+  },
+  "ex-family": {
+   "name": "Ex-Family",
+   "status": "pending"
+  },
+  "raynor": {
+   "name": "Raynor",
+   "status": "pending"
+  },
+  "ella-more": {
+   "name": "Ella More",
+   "status": "pending"
+  },
+  "deary": {
+   "name": "deary",
+   "status": "pending"
+  },
+  "barrell-jones": {
+   "name": "BARRELL JONES",
+   "status": "pending"
+  },
+  "lizzie-reid": {
+   "name": "Lizzie Reid",
+   "status": "pending"
+  },
+  "alfresco-love-sounds": {
+   "name": "Alfresco Love Sounds",
+   "status": "pending"
+  },
+  "wesley-bennett": {
+   "name": "Wesley Bennett",
+   "status": "pending"
+  },
+  "getdown-services": {
+   "name": "Getdown Services",
+   "status": "pending"
+  },
+  "blood-wizard": {
+   "name": "Blood Wizard",
+   "status": "pending"
+  },
+  "nano-kino": {
+   "name": "Nano Kino",
+   "status": "pending"
+  },
+  "silver-gore": {
+   "name": "Silver Gore",
+   "status": "pending"
+  },
+  "seegz": {
+   "name": "seegz",
+   "status": "pending"
+  },
+  "lifeloose": {
+   "name": "Lifeloose",
+   "status": "pending"
+  },
+  "martial-arts": {
+   "name": "Martial Arts",
+   "status": "pending"
+  },
+  "orla-noble": {
+   "name": "Orla Noble",
+   "status": "pending"
+  },
+  "modern-woman": {
+   "name": "Modern Woman",
+   "status": "pending"
+  },
+  "lavender": {
+   "name": "lavender",
+   "status": "pending"
+  },
+  "lovely-assistant": {
+   "name": "Lovely Assistant",
+   "status": "pending"
+  },
+  "the-hackney-attic": {
+   "name": "The Hackney Attic",
+   "status": "pending"
+  },
+  "slowe": {
+   "name": "Slowe",
+   "status": "pending"
+  },
+  "frankie-archer": {
+   "name": "Frankie Archer",
+   "status": "pending"
+  },
+  "rejoicein4k-hannah-thompson": {
+   "name": "Rejoicein4k / Hannah Thompson",
+   "status": "pending"
+  },
+  "first-day-of-spring": {
+   "name": "First Day of Spring",
+   "status": "pending"
+  },
+  "note": {
+   "name": "Note",
+   "status": "pending"
+  },
+  "chinwe": {
+   "name": "Chinwe",
    "status": "pending"
   }
  }
