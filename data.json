@@ -871,9 +871,10 @@
   },
   "eddie-doyle": {
    "name": "Eddie Doyle",
-   "status": "pending",
-   "checked": "2026-11-15",
-   "note": "No match in first search."
+   "status": "bandcamp",
+   "checked": "2026-11-17",
+   "note": "Newcastle. No YouTube channel found.",
+   "bandcamp": "https://eddiedoylemusic.bandcamp.com/"
   },
   "eistir": {
    "name": "Eistir",
@@ -915,7 +916,9 @@
   },
   "gwen": {
    "name": "GWEN",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "ambiguous name"
   },
   "h-st": {
    "name": "HØST",
@@ -923,7 +926,9 @@
   },
   "hank": {
    "name": "Hank",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "ambiguous name"
   },
   "harriet-rock": {
    "name": "Harriet Rock",
@@ -939,9 +944,10 @@
   },
   "ifulki": {
    "name": "IFULKI",
-   "status": "pending",
-   "checked": "2026-11-15",
-   "note": "No YouTube channel found in first search. Check Bandcamp."
+   "status": "bandcamp",
+   "checked": "2026-11-17",
+   "note": "London. No YouTube channel found.",
+   "bandcamp": "https://ifulki.bandcamp.com/"
   },
   "indoor-foxes": {
    "name": "Indoor Foxes",
@@ -967,10 +973,10 @@
   },
   "kiosk": {
    "name": "Kiosk",
-   "status": "pending",
-   "checked": "2026-11-15",
+   "status": "bandcamp",
+   "checked": "2026-11-17",
    "bandcamp": "https://kioskbanduk.bandcamp.com/",
-   "note": "Bandcamp known. YouTube not checked."
+   "note": "YouTube Kiosk channel is an Iranian band."
   },
   "kofi-stone": {
    "name": "Kofi Stone",
@@ -996,7 +1002,9 @@
   },
   "leneta": {
    "name": "Leneta",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "No channel or Bandcamp found."
   },
   "lfay": {
    "name": "LFay",
@@ -1018,7 +1026,10 @@
   },
   "lots-of-hands": {
    "name": "lots of hands",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://lotsofhands.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Newcastle. No YouTube channel found."
   },
   "lucy-moon": {
    "name": "Lucy Moon",
@@ -1030,7 +1041,10 @@
   },
   "marie-franc": {
    "name": "Marie Franc",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://mariefranc.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Manchester. No YouTube channel found."
   },
   "mm-99": {
    "name": "MM'99",
@@ -1040,9 +1054,9 @@
   },
   "morgan-morris": {
    "name": "Morgan Morris",
-   "status": "pending",
-   "checked": "2026-11-15",
-   "note": "No match in first search."
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "No channel or Bandcamp found."
   },
   "natalie-mccool": {
    "name": "Natalie McCool",
@@ -1093,7 +1107,9 @@
   },
   "rozzzqween": {
    "name": "ROZZZQWEEN",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "Videos and features only, no own channel or page."
   },
   "sally-stenning": {
    "name": "Sally Stenning",
@@ -1191,7 +1207,10 @@
   },
   "willie-j-healey": {
    "name": "Willie J Healey",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@WillieJHealey",
+   "checked": "2026-11-17",
+   "note": "Oxford artist channel."
   },
   "wyatt": {
    "name": "Wyatt",
@@ -1303,7 +1322,11 @@
   },
   "ellur": {
    "name": "Ellur",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@Ellur",
+   "bandcamp": "https://ellur.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Halifax singer."
   },
   "neone-the-wonderer": {
    "name": "NeONE The Wonderer",
@@ -1387,7 +1410,10 @@
   },
   "mwsog": {
    "name": "MWSOG",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://mwsogcymru.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Welsh act. No YouTube channel found."
   },
   "life": {
    "name": "LIFE",
@@ -1443,7 +1469,10 @@
   },
   "max-winter": {
    "name": "Max Winter",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://maxwinteruk.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "No YouTube channel found."
   },
   "good-news": {
    "name": "Good News",
@@ -1495,7 +1524,10 @@
   },
   "konyikeh": {
    "name": "Konyikeh",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://konyikeh.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "London. No YouTube channel found."
   },
   "aembr": {
    "name": "aembr",
@@ -1539,7 +1571,10 @@
   },
   "treeboy-arc": {
    "name": "Treeboy & Arc",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://treeboyandarc.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Leeds. No YouTube channel found."
   },
   "lime-garden": {
    "name": "Lime Garden",
@@ -1583,7 +1618,9 @@
   },
   "ex-family": {
    "name": "Ex-Family",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "No channel or Bandcamp found."
   },
   "raynor": {
    "name": "Raynor",
@@ -1643,7 +1680,10 @@
   },
   "orla-noble": {
    "name": "Orla Noble",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://orlanoble.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Glasgow. No YouTube channel found."
   },
   "modern-woman": {
    "name": "Modern Woman",
@@ -1683,7 +1723,9 @@
   },
   "chinwe": {
    "name": "Chinwe",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "No channel or Bandcamp found."
   },
   "holybones": {
    "name": "holybones",
@@ -1756,7 +1798,10 @@
   },
   "the-itch": {
    "name": "The Itch",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://theitch.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "London. YouTube @TheItchmusic is a Detroit band."
   },
   "myer-u-clark": {
    "name": "Myer U Clark",
