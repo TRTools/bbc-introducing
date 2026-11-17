@@ -783,7 +783,10 @@
   },
   "another-country": {
    "name": "Another; Country $$$$",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://acdollarsign.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Manchester. No YouTube channel found, videos only."
   },
   "asian-brat": {
    "name": "ASIAN BRAT",
@@ -824,10 +827,11 @@
   },
   "bruise-control": {
    "name": "Bruise Control",
-   "status": "pending",
-   "checked": "2026-11-15",
+   "status": "youtube",
+   "checked": "2026-11-17",
    "bandcamp": "https://bruisecontrol.bandcamp.com/",
-   "note": "Bandcamp known. YouTube not checked."
+   "note": "Manchester punk band channel.",
+   "youtube": "https://www.youtube.com/@bruise.control"
   },
   "ceitidh-mac": {
    "name": "Ceitidh Mac",
@@ -897,7 +901,10 @@
   },
   "girl-group": {
    "name": "Girl Group",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@ThisIsGirlGroup",
+   "checked": "2026-11-17",
+   "note": "Liverpool act channel."
   },
   "group-a-d": {
    "name": "Group A.D.",
@@ -1005,7 +1012,9 @@
   },
   "long-distance-runner": {
    "name": "Long Distance Runner",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "No own channel or UK Bandcamp page found."
   },
   "lots-of-hands": {
    "name": "lots of hands",
@@ -1025,7 +1034,9 @@
   },
   "mm-99": {
    "name": "MM'99",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "Videos only, no own channel or Bandcamp found."
   },
   "morgan-morris": {
    "name": "Morgan Morris",
@@ -1051,10 +1062,10 @@
   },
   "pearl2": {
    "name": "Pearl2",
-   "status": "pending",
-   "checked": "2026-11-15",
+   "status": "bandcamp",
+   "checked": "2026-11-17",
    "bandcamp": "https://pearl2trax.bandcamp.com/",
-   "note": "Bandcamp known. YouTube not checked."
+   "note": "No YouTube channel found, videos only."
   },
   "pearly-gates": {
    "name": "Pearly Gates",
@@ -1101,7 +1112,9 @@
   },
   "sin-clair": {
    "name": "Sin Clair",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "No channel or Bandcamp found."
   },
   "sisters": {
    "name": "Sisters",
@@ -1129,9 +1142,10 @@
   },
   "the-healing-power-of-horses": {
    "name": "The Healing Power of Horses",
-   "status": "pending",
-   "checked": "2026-11-15",
-   "note": "No YouTube channel found in first search. Check Bandcamp."
+   "status": "bandcamp",
+   "checked": "2026-11-17",
+   "note": "Cambridge. No YouTube channel found.",
+   "bandcamp": "https://thehealingpowerofhorses.bandcamp.com/"
   },
   "the-meffs": {
    "name": "The Meffs",
@@ -1697,7 +1711,10 @@
   },
   "bea-malka": {
    "name": "Bea Malka",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://beamalka.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Wales. No YouTube channel found."
   },
   "navina": {
    "name": "NAVINA",
@@ -1705,7 +1722,9 @@
   },
   "yottie": {
    "name": "yottie",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "Only a label release on Bandcamp, no own page."
   },
   "prima-queen": {
    "name": "Prima Queen",
@@ -1745,7 +1764,9 @@
   },
   "sistra": {
    "name": "SISTRA",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "Videos only; Bandcamp pages found are other acts."
   },
   "tom-a-smith": {
    "name": "Tom A. Smith",
@@ -1785,7 +1806,10 @@
   },
   "night-swimming": {
    "name": "Night Swimming",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@nightsswimming",
+   "checked": "2026-11-17",
+   "note": "Dream pop band, Venn Records."
   },
   "oscar-dunbar": {
    "name": "Oscar Dunbar",
@@ -1853,7 +1877,9 @@
   },
   "noise-of-angels": {
    "name": "Noise of Angels",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "Channel @NoiseofAngels exists but no UK tie confirmed."
   },
   "eva-lazarus": {
    "name": "Eva Lazarus",
@@ -1889,7 +1915,10 @@
   },
   "the-kitchen-sink-band": {
    "name": "The Kitchen Sink Band",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://thekitchensinkband.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "England. No YouTube channel found."
   },
   "bau-cat": {
    "name": "Bau Cat",
@@ -1913,7 +1942,10 @@
   },
   "imissmymom": {
    "name": "IMISSMYMOM",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://imissmymom.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "London. No YouTube channel found."
   },
   "ala-ni": {
    "name": "ALA.NI",
@@ -1949,7 +1981,10 @@
   },
   "neighbour-club": {
    "name": "Neighbour Club",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@NeighbourClub",
+   "checked": "2026-11-17",
+   "note": "London band channel."
   },
   "do-nothing": {
    "name": "Do Nothing",
@@ -1989,7 +2024,9 @@
   },
   "baby-deltic": {
    "name": "Baby Deltic",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "No channel or Bandcamp found."
   },
   "oscar-november": {
    "name": "Oscar November",
@@ -2065,7 +2102,9 @@
   },
   "birdseed": {
    "name": "Birdseed",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-17",
+   "note": "ambiguous name"
   },
   "the-luca": {
    "name": "The Luca",
@@ -2109,7 +2148,10 @@
   },
   "r-loomes": {
    "name": "R Loomes",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://rloomes.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Sheffield. No YouTube channel found."
   },
   "bonuru": {
    "name": "Bonuru",
@@ -2177,7 +2219,10 @@
   },
   "cosign": {
    "name": "cosign",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://cosign.bandcamp.com/",
+   "checked": "2026-11-17",
+   "note": "Belfast. No YouTube channel found."
   },
   "monks": {
    "name": "Monks",
