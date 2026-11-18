@@ -775,7 +775,9 @@
  "artists": {
   "adjua": {
    "name": "ADJUA",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "could not confirm which ADJUA page is this artist"
   },
   "alice-faye": {
    "name": "Alice Faye",
@@ -825,7 +827,9 @@
   },
   "body-horror": {
    "name": "Body Horror",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://bodyhorror1.bandcamp.com/"
   },
   "bonds": {
    "name": "Bonds",
@@ -853,19 +857,27 @@
   },
   "cordelia-gartside": {
    "name": "cordelia gartside",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@cordeliagartside"
   },
   "cowboy-hunters": {
    "name": "Cowboy Hunters",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@cowboy_hunters"
   },
   "cyn-cwsg": {
    "name": "Cyn Cwsg",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "only session videos found, no own channel or Bandcamp"
   },
   "dermot-henry": {
    "name": "Dermot Henry",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@DermotHenry"
   },
   "dog-days": {
    "name": "DOG DAYS",
@@ -904,7 +916,9 @@
   },
   "esme-emerson": {
    "name": "Esme Emerson",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "only a Topic channel found"
   },
   "father-hell": {
    "name": "Father Hell",
@@ -979,7 +993,9 @@
   },
   "johanna-warren": {
    "name": "Johanna Warren",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://johannawarren.bandcamp.com/"
   },
   "jordan-joy": {
    "name": "Jordan Joy",
@@ -1040,11 +1056,15 @@
   },
   "lily-juniper": {
    "name": "Lily Juniper",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://lilyjuniper.bandcamp.com/"
   },
   "lochre": {
    "name": "lochre",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "no channel or Bandcamp found"
   },
   "long-distance-runner": {
    "name": "Long Distance Runner",
@@ -1065,7 +1085,9 @@
   },
   "mandrake-handshake": {
    "name": "Mandrake Handshake",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@mandrakehandshake5603"
   },
   "marie-franc": {
    "name": "Marie Franc",
@@ -1092,7 +1114,9 @@
   },
   "ninarosa": {
    "name": "NinaRosa",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "only a different Prague artist found"
   },
   "olorunns": {
    "name": "Olorunns",
@@ -1113,7 +1137,9 @@
   },
   "pearly-gates": {
    "name": "Pearly Gates",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "only non UK bands of this name found"
   },
   "pvc": {
    "name": "PVC",
@@ -1131,7 +1157,9 @@
   },
   "redolent": {
    "name": "redolent",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@redolentredolent"
   },
   "riya-lue": {
    "name": "Riya Lue",
@@ -1182,11 +1210,15 @@
   },
   "spike": {
    "name": "Spike",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "ambiguous name"
   },
   "steven-bamidele": {
    "name": "Steven Bamidele",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@StevenBamidele"
   },
   "the-family-battenberg": {
    "name": "The Family Battenberg",
@@ -1213,7 +1245,9 @@
   },
   "tokomololo": {
    "name": "Tokomololo",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@tokomololomusic"
   },
   "troutflies": {
    "name": "Troutflies",
@@ -1221,7 +1255,9 @@
   },
   "two-blinks-i-love-you": {
    "name": "two blinks, I love you",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://twoblinksiloveyou.bandcamp.com/"
   },
   "twst": {
    "name": "twst",
@@ -1243,7 +1279,9 @@
   },
   "whosmeg": {
    "name": "whosmeg?",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "no channel or Bandcamp found"
   },
   "willie-j-healey": {
    "name": "Willie J Healey",
@@ -1254,7 +1292,9 @@
   },
   "wyatt": {
    "name": "Wyatt",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "ambiguous name"
   },
   "zoe-cure": {
    "name": "Zoe Cure",
