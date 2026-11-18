@@ -779,7 +779,9 @@
   },
   "alice-faye": {
    "name": "Alice Faye",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://alicefaye.bandcamp.com/"
   },
   "another-country": {
    "name": "Another; Country $$$$",
@@ -790,7 +792,9 @@
   },
   "asian-brat": {
    "name": "ASIAN BRAT",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://asianbrat.bandcamp.com/"
   },
   "bathing-suits": {
    "name": "Bathing Suits",
@@ -800,7 +804,9 @@
   },
   "big-warm-bed": {
    "name": "Big Warm Bed",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://bigwarmbed.bandcamp.com/"
   },
   "bleach-lab": {
    "name": "Bleach lab",
@@ -823,7 +829,9 @@
   },
   "bonds": {
    "name": "Bonds",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "ambiguous name"
   },
   "bruise-control": {
    "name": "Bruise Control",
@@ -835,7 +843,9 @@
   },
   "ceitidh-mac": {
    "name": "Ceitidh Mac",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@ceitidh_mac"
   },
   "clea-may": {
    "name": "Clea May",
@@ -859,7 +869,9 @@
   },
   "dog-days": {
    "name": "DOG DAYS",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "no matching UK channel or Bandcamp found"
   },
   "dolo-jones": {
    "name": "Dolo Jones",
@@ -867,7 +879,9 @@
   },
   "doss": {
    "name": "DOSS",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://doss2.bandcamp.com/"
   },
   "eddie-doyle": {
    "name": "Eddie Doyle",
@@ -878,11 +892,15 @@
   },
   "eistir": {
    "name": "Eistir",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "no channel or Bandcamp found"
   },
   "elf-jaw": {
    "name": "Elf Jaw",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "no channel or Bandcamp found"
   },
   "esme-emerson": {
    "name": "Esme Emerson",
@@ -890,7 +908,9 @@
   },
   "father-hell": {
    "name": "Father Hell",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "Mattie Vant project; no own channel or Bandcamp found"
   },
   "galore": {
    "name": "Galore",
@@ -922,7 +942,9 @@
   },
   "h-st": {
    "name": "HØST",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://hstmusic.bandcamp.com/"
   },
   "hank": {
    "name": "Hank",
@@ -961,7 +983,9 @@
   },
   "jordan-joy": {
    "name": "Jordan Joy",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@jordanjoymusic"
   },
   "kaeto": {
    "name": "kaeto",
@@ -969,7 +993,9 @@
   },
   "kinkai": {
    "name": "KinKai",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://kinkai.bandcamp.com/"
   },
   "kiosk": {
    "name": "Kiosk",
@@ -998,7 +1024,9 @@
   },
   "lemonsuckr": {
    "name": "LEMONSUCKR",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@Lemonsuckr"
   },
   "leneta": {
    "name": "Leneta",
@@ -1068,7 +1096,9 @@
   },
   "olorunns": {
    "name": "Olorunns",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "only session videos found, no own channel or Bandcamp"
   },
   "oscar-browne": {
    "name": "Oscar Browne",
@@ -1087,7 +1117,9 @@
   },
   "pvc": {
    "name": "PVC",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "ambiguous name"
   },
   "quinn-oulton": {
    "name": "Quinn Oulton",
@@ -1117,7 +1149,9 @@
   },
   "samuel-nicholson": {
    "name": "Samuel Nicholson",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@samuelnicholsonmusic"
   },
   "sandhouse": {
    "name": "Sandhouse",
@@ -1142,7 +1176,9 @@
   },
   "spanish-horses": {
    "name": "Spanish Horses",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-18",
+   "bandcamp": "https://spanishorses.bandcamp.com/"
   },
   "spike": {
    "name": "Spike",
@@ -1165,7 +1201,9 @@
   },
   "the-meffs": {
    "name": "The Meffs",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-18",
+   "youtube": "https://www.youtube.com/@themeffsuk"
   },
   "the-ninth-wave": {
    "name": "The Ninth Wave",
@@ -1187,7 +1225,9 @@
   },
   "twst": {
    "name": "twst",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-18",
+   "note": "only BBC session video found, no own channel or Bandcamp"
   },
   "webmoms": {
    "name": "Webmoms",
