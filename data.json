@@ -816,7 +816,9 @@
   },
   "bleep-test": {
    "name": "Bleep Test",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://blptst.bandcamp.com/"
   },
   "bloodworm": {
    "name": "Bloodworm",
@@ -887,7 +889,9 @@
   },
   "dolo-jones": {
    "name": "Dolo Jones",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://dolojones.bandcamp.com/"
   },
   "doss": {
    "name": "DOSS",
@@ -928,11 +932,15 @@
   },
   "galore": {
    "name": "Galore",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "ambiguous name"
   },
   "gans": {
    "name": "GANS",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://gansbham.bandcamp.com/"
   },
   "girl-group": {
    "name": "Girl Group",
@@ -968,11 +976,15 @@
   },
   "harriet-rock": {
    "name": "Harriet Rock",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://harrietrock.bandcamp.com/"
   },
   "heidi-curtis": {
    "name": "Heidi Curtis",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@HeidiCurtis"
   },
   "i-am-afiya": {
    "name": "i.am.afiya",
@@ -1005,7 +1017,9 @@
   },
   "kaeto": {
    "name": "kaeto",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://kaetoeyo.bandcamp.com/"
   },
   "kinkai": {
    "name": "KinKai",
@@ -1022,15 +1036,21 @@
   },
   "kofi-stone": {
    "name": "Kofi Stone",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@KofiStone_"
   },
   "la-rissa": {
    "name": "La Rissa",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@LaRissauk"
   },
   "larimae": {
    "name": "Larimae",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://larimae.bandcamp.com/"
   },
   "ledbyher": {
    "name": "Ledbyher",
@@ -1052,7 +1072,9 @@
   },
   "lfay": {
    "name": "LFay",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://lfay.bandcamp.com/"
   },
   "lily-juniper": {
    "name": "Lily Juniper",
@@ -1126,7 +1148,9 @@
   },
   "oscar-browne": {
    "name": "Oscar Browne",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@OscarBrowne_"
   },
   "pearl2": {
    "name": "Pearl2",
@@ -1163,7 +1187,9 @@
   },
   "riya-lue": {
    "name": "Riya Lue",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "no channel or Bandcamp found"
   },
   "rozzzqween": {
    "name": "ROZZZQWEEN",
@@ -1173,7 +1199,9 @@
   },
   "sally-stenning": {
    "name": "Sally Stenning",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "no channel or Bandcamp found"
   },
   "samuel-nicholson": {
    "name": "Samuel Nicholson",
@@ -1196,11 +1224,15 @@
   },
   "sisters": {
    "name": "Sisters",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "ambiguous name"
   },
   "sooyeon": {
    "name": "sooyeon",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://sooyeon.bandcamp.com/"
   },
   "spanish-horses": {
    "name": "Spanish Horses",
@@ -1222,7 +1254,9 @@
   },
   "the-family-battenberg": {
    "name": "The Family Battenberg",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://thefamilybattenberg.bandcamp.com/"
   },
   "the-healing-power-of-horses": {
    "name": "The Healing Power of Horses",
@@ -1251,7 +1285,9 @@
   },
   "troutflies": {
    "name": "Troutflies",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@TroutFlies"
   },
   "two-blinks-i-love-you": {
    "name": "two blinks, I love you",
@@ -1271,11 +1307,15 @@
   },
   "white-flowers": {
    "name": "White Flowers",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/channel/UCuifiUGpHeYhtkK5nYwwucg"
   },
   "white-rafi": {
    "name": "White Rafi",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "no channel or Bandcamp found"
   },
   "whosmeg": {
    "name": "whosmeg?",
