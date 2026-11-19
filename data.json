@@ -812,7 +812,9 @@
   },
   "bleach-lab": {
    "name": "Bleach lab",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/channel/UCj_-iLy9ZF2hi8N11DDq-4A"
   },
   "bleep-test": {
    "name": "Bleep Test",
@@ -988,7 +990,9 @@
   },
   "i-am-afiya": {
    "name": "i.am.afiya",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "no channel or Bandcamp found"
   },
   "ifulki": {
    "name": "IFULKI",
@@ -1103,7 +1107,9 @@
   },
   "lucy-moon": {
    "name": "Lucy Moon",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "ambiguous name"
   },
   "mandrake-handshake": {
    "name": "Mandrake Handshake",
@@ -1173,11 +1179,15 @@
   },
   "quinn-oulton": {
    "name": "Quinn Oulton",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/c/quinnoulton"
   },
   "rail-replacement-bus-service": {
    "name": "Rail Replacement Bus Service",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@RailReplacementBusService"
   },
   "redolent": {
    "name": "redolent",
@@ -1338,7 +1348,9 @@
   },
   "zoe-cure": {
    "name": "Zoe Cure",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://zoecure.bandcamp.com/"
   },
   "florence-road": {
    "name": "Florence Road",
@@ -1585,7 +1597,9 @@
   },
   "ladylike": {
    "name": "ladylike",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "ambiguous name; Bandcamp ladylike is a US act"
   },
   "max-winter": {
    "name": "Max Winter",
@@ -1784,7 +1798,9 @@
   },
   "silver-gore": {
    "name": "Silver Gore",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/channel/UC3rUe5c7qSrtHX06xtRzXZg"
   },
   "seegz": {
    "name": "seegz",
@@ -2161,7 +2177,9 @@
   },
   "green-star": {
    "name": "Green Star",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://greenstar.bandcamp.com/"
   },
   "anna-bradley": {
    "name": "Anna Bradley",
@@ -2352,11 +2370,15 @@
   },
   "post-common": {
    "name": "Post Common",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://postcommon.bandcamp.com/"
   },
   "shlug": {
    "name": "SHLUG",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://shlug.bandcamp.com/"
   },
   "matilda-finn-frances": {
    "name": "Matilda Finn Frances",
@@ -2391,39 +2413,57 @@
   },
   "monks": {
    "name": "Monks",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "ambiguous name"
   },
   "sage-todz": {
    "name": "Sage Todz",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/channel/UCoTBqqs853Q90NBEjq0kVjA"
   },
   "sweet-giant": {
    "name": "Sweet Giant",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@SweetGiant"
   },
   "c-o-m-b": {
    "name": "c.o.m.b.",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-19",
+   "note": "no channel or Bandcamp found"
   },
   "dave-shurr": {
    "name": "Dave Shurr",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/channel/UCT50bxVKgMqNpfvJntsm5qw"
   },
   "pip-millett": {
    "name": "Pip Millett",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/channel/UCvge6efpKy1ef9CQB4c7hcg"
   },
   "theo-and-sahra": {
    "name": "Theo and Sahra",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-19",
+   "bandcamp": "https://theosahra.bandcamp.com/"
   },
   "fright-years": {
    "name": "Fright Years",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/channel/UCLVcaIy3P3M00qqI0t2kVsA"
   },
   "british-birds": {
    "name": "British Birds",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-19",
+   "youtube": "https://www.youtube.com/@britishbirdsband"
   }
  }
 }
