@@ -1646,7 +1646,9 @@
   },
   "iona-luke": {
    "name": "Iona Luke",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or own Bandcamp found"
   },
   "morgan-harper-jones": {
    "name": "Morgan Harper-Jones",
@@ -1794,7 +1796,9 @@
   },
   "nano-kino": {
    "name": "Nano Kino",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://nanokino.bandcamp.com/"
   },
   "silver-gore": {
    "name": "Silver Gore",
@@ -2169,11 +2173,15 @@
   },
   "do-nothing": {
    "name": "Do Nothing",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://thebanddonothing.bandcamp.com/"
   },
   "jo-from-school": {
    "name": "Jo from School",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://jofromschool.bandcamp.com/"
   },
   "green-star": {
    "name": "Green Star",
@@ -2183,11 +2191,15 @@
   },
   "anna-bradley": {
    "name": "Anna Bradley",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no confirmed match"
   },
   "rory-rockett": {
    "name": "Rory Rockett",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or Bandcamp found"
   },
   "gold-cup": {
    "name": "Gold Cup",
@@ -2215,31 +2227,45 @@
   },
   "oscar-november": {
    "name": "Oscar November",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or Bandcamp found"
   },
   "the-great-pleasure": {
    "name": "The Great Pleasure",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://thegreatpleasure.bandcamp.com/"
   },
   "nathan-ball": {
    "name": "Nathan Ball",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/@NathanBallMusic"
   },
   "the-youth-play": {
    "name": "The Youth Play",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://theyouthplay.bandcamp.com/"
   },
   "forget-them-wendy": {
    "name": "Forget Them Wendy",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://forgetthemwendy.bandcamp.com/"
   },
   "los-blancos": {
    "name": "Los Blancos",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://losblancos.bandcamp.com/"
   },
   "the-folk-drama": {
    "name": "the FOLK DRAMA",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://thefolkdrama.bandcamp.com/"
   },
   "venus-grrrls": {
    "name": "Venus Grrrls",
@@ -2267,31 +2293,45 @@
   },
   "helena-gao": {
    "name": "Helena Gao",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/channel/UCj4MOLPkYBXaiz9MMwc292w"
   },
   "isabella-richardson": {
    "name": "Isabella Richardson",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no confirmed match"
   },
   "the-wild-infinite": {
    "name": "The Wild Infinite",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or Bandcamp found"
   },
   "two-blinks": {
    "name": "Two Blinks",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "only found two blinks, i love you (likely a US act)"
   },
   "heron-red": {
    "name": "Heron Red",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or Bandcamp found"
   },
   "pip": {
    "name": "Pip",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "ambiguous name"
   },
   "hannah-morgan": {
    "name": "Hannah-Morgan",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/@hannahmorganofficial"
   },
   "birdseed": {
    "name": "Birdseed",
