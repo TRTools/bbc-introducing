@@ -2199,7 +2199,9 @@
   },
   "jake-whiskin": {
    "name": "Jake Whiskin",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://jakewhiskin.bandcamp.com/"
   },
   "corto-alto": {
    "name": "corto.alto",
@@ -2241,19 +2243,27 @@
   },
   "venus-grrrls": {
    "name": "Venus Grrrls",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/channel/UCBNuSbk021NFWIgq2s_1TEA"
   },
   "dylan-bradley-and-the-heat": {
    "name": "Dylan Bradley and the Heat",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "ambiguous name"
   },
   "phoebe-green": {
    "name": "Phoebe Green",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/@ph0ebe-green"
   },
   "the-marches": {
    "name": "The Marches",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://themarchesmusic.bandcamp.com/"
   },
   "helena-gao": {
    "name": "Helena Gao",
@@ -2291,19 +2301,27 @@
   },
   "the-luca": {
    "name": "The Luca",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no matching channel or Bandcamp"
   },
   "saskia": {
    "name": "Saskia",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "ambiguous name"
   },
   "eden-may": {
    "name": "Eden May",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "ambiguous name"
   },
   "slobject": {
    "name": "Slobject",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "only on label Bandcamp pages"
   },
   "improvazzlab": {
    "name": "improvazzlab.",
@@ -2311,23 +2329,33 @@
   },
   "mr-speed": {
    "name": "Mr Speed",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "ambiguous name"
   },
   "snm": {
    "name": "SNM",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/@SNM_BAND"
   },
   "people-laughing": {
    "name": "People Laughing",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or Bandcamp found"
   },
   "monkeys-with-internet": {
    "name": "Monkeys with Internet",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or Bandcamp found"
   },
   "martha-hill": {
    "name": "Martha Hill",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/channel/UCUypwQZ2RxF4WhsThiPxZXg"
   },
   "r-loomes": {
    "name": "R Loomes",
@@ -2382,27 +2410,39 @@
   },
   "matilda-finn-frances": {
    "name": "Matilda Finn Frances",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/@matildafinnfrances"
   },
   "jewel-lasrado": {
    "name": "Jewel Lasrado",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/channel/UCChIYGfjCg1wsNQ1tl9Mbvw"
   },
   "lemfreck": {
    "name": "LEMFRECK",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-20",
+   "youtube": "https://www.youtube.com/@LEMFRECK"
   },
   "george-dillon": {
    "name": "George Dillon",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no confirmed channel or Bandcamp"
   },
   "moon-idle": {
    "name": "Moon Idle",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-20",
+   "bandcamp": "https://moonidle.bandcamp.com/"
   },
   "curiosity-shop": {
    "name": "Curiosity Shop",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-20",
+   "note": "no channel or own Bandcamp found"
   },
   "cosign": {
    "name": "cosign",
