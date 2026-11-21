@@ -1313,7 +1313,9 @@
   },
   "webmoms": {
    "name": "Webmoms",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/channel/UCk55KL5KL_L-NyWaXdGmOfg"
   },
   "white-flowers": {
    "name": "White Flowers",
@@ -1624,7 +1626,9 @@
   },
   "salo": {
    "name": "SALO",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "marnie-glum": {
    "name": "Marnie Glum",
@@ -1794,7 +1798,9 @@
   },
   "getdown-services": {
    "name": "Getdown Services",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://getdownservices.bandcamp.com/"
   },
   "blood-wizard": {
    "name": "Blood Wizard",
@@ -2006,7 +2012,9 @@
   },
   "oscar-dunbar": {
    "name": "Oscar Dunbar",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "big-fear": {
    "name": "Big Fear",
@@ -2038,35 +2046,51 @@
   },
   "sophia-harari-donsurf": {
    "name": "Sophia Harari & Donsurf",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "collaboration; no shared channel or Bandcamp found"
   },
   "abbie-ozard": {
    "name": "Abbie Ozard",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://abbieozard.bandcamp.com/"
   },
   "arthur-black": {
    "name": "Arthur Black",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "fatale": {
    "name": "Fatale",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "joyeria": {
    "name": "Joyeria",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@joyeria.sounds"
   },
   "fletchr-fletchr": {
    "name": "FLETCHR FLETCHR",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "czafari": {
    "name": "Czafari.",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "warahenege": {
    "name": "Warahenege",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://warahenege.bandcamp.com/"
   },
   "noise-of-angels": {
    "name": "Noise of Angels",
@@ -2076,23 +2100,33 @@
   },
   "eva-lazarus": {
    "name": "Eva Lazarus",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/c/EvaLazarus"
   },
   "ruti": {
    "name": "Ruti",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "only a YouTube Music artist page found; no own channel or Bandcamp"
   },
   "gen-and-the-degenerates": {
    "name": "Gen and The Degenerates",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@gensdegenerates"
   },
   "mouth-ulcers": {
    "name": "Mouth Ulcers",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@Mouthulcersmusic"
   },
   "fishwife": {
    "name": "Fishwife",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "walt-disco": {
    "name": "walt disco",
@@ -2102,11 +2136,15 @@
   },
   "spaceacre": {
    "name": "SpaceAcre",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://spaceacre.bandcamp.com/"
   },
   "yung-toro": {
    "name": "Yung Toro",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "the-kitchen-sink-band": {
    "name": "The Kitchen Sink Band",
@@ -2141,7 +2179,9 @@
   },
   "big-red": {
    "name": "Big Red",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "imissmymom": {
    "name": "IMISSMYMOM",
