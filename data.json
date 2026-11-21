@@ -1362,11 +1362,15 @@
   },
   "formal-sppeedwear": {
    "name": "Formal Sppeedwear",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://formalsppeedwear.bandcamp.com/"
   },
   "maddie-ashman": {
    "name": "Maddie Ashman",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@MaddieAshman"
   },
   "dead-dads-club": {
    "name": "Dead Dads Club",
@@ -1382,7 +1386,9 @@
   },
   "elanor-moss": {
    "name": "Elanor Moss",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/channel/UCXYpDe5EvUdrmGeRt5BE6gA"
   },
   "dove-ellis": {
    "name": "Dove Ellis",
@@ -1885,7 +1891,9 @@
   },
   "knats": {
    "name": "Knats",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://knats.bandcamp.com/"
   },
   "lonnie-gunn": {
    "name": "Lonnie Gunn",
@@ -2088,7 +2096,9 @@
   },
   "walt-disco": {
    "name": "walt disco",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@waltdisco"
   },
   "spaceacre": {
    "name": "SpaceAcre",
@@ -2107,19 +2117,27 @@
   },
   "bau-cat": {
    "name": "Bau Cat",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@baucat"
   },
   "shadowman": {
    "name": "Shadowman",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "august-charles": {
    "name": "August Charles",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@augustcharles_"
   },
   "cether": {
    "name": "Cether",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "big-red": {
    "name": "Big Red",
@@ -2134,35 +2152,51 @@
   },
   "ala-ni": {
    "name": "ALA.NI",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/@alaniofficial"
   },
   "marla-kether": {
    "name": "Marla Kether",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://marlakether.bandcamp.com/"
   },
   "mr-fish": {
    "name": "Mr. Fish",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "billy-sharp": {
    "name": "Billy Sharp",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name; no clear own channel or Bandcamp"
   },
   "roan-stripp": {
    "name": "Roan Stripp",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "precious-metals": {
    "name": "Precious Metals",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "thandii": {
    "name": "Thandii",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://thandii.bandcamp.com/"
   },
   "yas-ft-cloudman": {
    "name": "Yas. ft. Cloudman",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-21",
+   "note": "ambiguous name"
   },
   "neighbour-club": {
    "name": "Neighbour Club",
@@ -2203,11 +2237,15 @@
   },
   "gold-cup": {
    "name": "Gold Cup",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://goldcup.bandcamp.com/"
   },
   "the-family-battenburg": {
    "name": "The Family Battenburg",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-21",
+   "bandcamp": "https://thefamilybattenberg.bandcamp.com/"
   },
   "jake-whiskin": {
    "name": "Jake Whiskin",
@@ -2217,7 +2255,9 @@
   },
   "corto-alto": {
    "name": "corto.alto",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-21",
+   "youtube": "https://www.youtube.com/channel/UCeK4zW58jDeuqgA5IGU0iow"
   },
   "baby-deltic": {
    "name": "Baby Deltic",
