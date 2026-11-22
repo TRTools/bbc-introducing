@@ -1542,7 +1542,9 @@
   },
   "natalie-wildgoose": {
    "name": "Natalie Wildgoose",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@nataliewildgoose"
   },
   "alice-costelloe": {
    "name": "Alice Costelloe",
@@ -1624,7 +1626,9 @@
   },
   "good-news": {
    "name": "Good News",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "ambiguous name"
   },
   "pigeon": {
    "name": "Pigeon",
@@ -1650,7 +1654,9 @@
   },
   "wax-head": {
    "name": "Wax Head",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://waxhead1.bandcamp.com/"
   },
   "fiobha": {
    "name": "Fíobha",
@@ -1847,15 +1853,21 @@
   },
   "modern-woman": {
    "name": "Modern Woman",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@modernwomanband"
   },
   "lavender": {
    "name": "lavender",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "ambiguous name"
   },
   "lovely-assistant": {
    "name": "Lovely Assistant",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://lovelyassistant.bandcamp.com/"
   },
   "the-hackney-attic": {
    "name": "The Hackney Attic",
@@ -1865,15 +1877,21 @@
   },
   "slowe": {
    "name": "Slowe",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@slowe-music"
   },
   "frankie-archer": {
    "name": "Frankie Archer",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@frankiearchermusic"
   },
   "rejoicein4k-hannah-thompson": {
    "name": "Rejoicein4k / Hannah Thompson",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "first-day-of-spring": {
    "name": "First Day of Spring",
@@ -1899,11 +1917,15 @@
   },
   "paal-singh": {
    "name": "Paal Singh",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://paalsingh.bandcamp.com/"
   },
   "gabby-rivers": {
    "name": "Gabby Rivers",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@gabbyriversmusic"
   },
   "knats": {
    "name": "Knats",
@@ -1913,7 +1935,9 @@
   },
   "lonnie-gunn": {
    "name": "Lonnie Gunn",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://lonniegunn.bandcamp.com/"
   },
   "bea-malka": {
    "name": "Bea Malka",
@@ -1924,7 +1948,9 @@
   },
   "navina": {
    "name": "NAVINA",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "only an unverified channel found"
   },
   "yottie": {
    "name": "yottie",
@@ -1940,27 +1966,39 @@
   },
   "treks": {
    "name": "Treks",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "aifric": {
    "name": "Aifric",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "f3miii": {
    "name": "F3miii",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://f3miii.bandcamp.com/"
   },
   "anna-blaise": {
    "name": "Anna Blaise",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "tooth": {
    "name": "Tooth",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "ambiguous name"
   },
   "big-long-sun": {
    "name": "Big Long Sun",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@biglongsun"
   },
   "the-itch": {
    "name": "The Itch",
@@ -1971,7 +2009,9 @@
   },
   "myer-u-clark": {
    "name": "Myer U Clark",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://myeruclark1.bandcamp.com/"
   },
   "sistra": {
    "name": "SISTRA",
