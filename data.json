@@ -1498,7 +1498,9 @@
   },
   "pyncher": {
    "name": "pyncher",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/channel/UCjTL2OPhgwDyTvlPopGwAdQ"
   },
   "madeline-tully": {
    "name": "Madeline Tully",
@@ -1514,7 +1516,9 @@
   },
   "kloyd": {
    "name": "Kloyd",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://kloyd.bandcamp.com/"
   },
   "blossom-caldarone": {
    "name": "Blossom Caldarone",
@@ -1569,7 +1573,9 @@
   },
   "menig": {
    "name": "menig",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "crystal-murray": {
    "name": "Crystal Murray",
@@ -1705,7 +1711,9 @@
   },
   "melanie-baker": {
    "name": "Melanie Baker",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@MelanieBakerMusic"
   },
   "cholly-rosie-robinson": {
    "name": "Cholly / Rosie Robinson",
@@ -1851,7 +1859,9 @@
   },
   "the-hackney-attic": {
    "name": "The Hackney Attic",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "slowe": {
    "name": "Slowe",
@@ -1924,7 +1934,9 @@
   },
   "prima-queen": {
    "name": "Prima Queen",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@primaqueen"
   },
   "treks": {
    "name": "Treks",
@@ -1973,35 +1985,51 @@
   },
   "thais-ray": {
    "name": "Thaïs Ray",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no channel found; thais.bandcamp.com is a different French artist"
   },
   "charlie-floyd": {
    "name": "Charlie Floyd",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "only a Topic or auto artist channel found"
   },
   "cutscene": {
    "name": "Cutscene",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://cutsceneband.bandcamp.com/"
   },
   "ben-kidson-good-health-good-wealth": {
    "name": "Ben Kidson & Good Health Good Wealth",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/channel/UCRUd-anmOWxYuMrCnJkH2XQ"
   },
   "maya-law": {
    "name": "Maya Law",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://mayalaw.bandcamp.com/"
   },
   "miller-blue": {
    "name": "Miller Blue",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://millerblue.bandcamp.com/"
   },
   "fran-lusty": {
    "name": "Fran Lusty",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@franlusty"
   },
   "the-early-purple": {
    "name": "The Early Purple",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://theearlypurple.bandcamp.com/"
   },
   "night-swimming": {
    "name": "Night Swimming",
@@ -2018,27 +2046,39 @@
   },
   "big-fear": {
    "name": "Big Fear",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://bigfear.bandcamp.com/"
   },
   "speedial": {
    "name": "Speedial",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/channel/UCQdK_eQ6CGADi-f2pDoLRxg"
   },
   "gaia": {
    "name": "GAÏA",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-22",
+   "bandcamp": "https://gaiauk.bandcamp.com/"
   },
   "nani-porenta": {
    "name": "Nani Porenta",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "louis-grace": {
    "name": "Louis Grace",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-22",
+   "note": "no YouTube channel or Bandcamp page found"
   },
   "daniel-maple": {
    "name": "Daniel Maple",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-22",
+   "youtube": "https://www.youtube.com/@danielmaplemusic"
   },
   "junior-simba": {
    "name": "Junior Simba",
