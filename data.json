@@ -1496,7 +1496,9 @@
   },
   "heart-and-mouth": {
    "name": "Heart and Mouth",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://heartandmouth.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "ellen-beth-abdi": {
    "name": "Ellen Beth Abdi",
@@ -1654,15 +1656,21 @@
   },
   "marnie-glum": {
    "name": "Marnie Glum",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://marnieglum.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "unlucky": {
    "name": "Unlucky",
-   "status": "pending"
+   "status": "none",
+   "note": "ambiguous name",
+   "checked": "2026-11-23"
   },
   "no-spinoza": {
    "name": "No Spinoza",
-   "status": "pending"
+   "status": "none",
+   "note": "no channel or Bandcamp found",
+   "checked": "2026-11-23"
   },
   "wax-head": {
    "name": "Wax Head",
@@ -1701,31 +1709,45 @@
   },
   "aembr": {
    "name": "aembr",
-   "status": "pending"
+   "status": "none",
+   "note": "no channel or Bandcamp found",
+   "checked": "2026-11-23"
   },
   "clara-pople": {
    "name": "Clara Pople",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/channel/UCXBrlg7Sy8dUfcXlpSE3WRA",
+   "checked": "2026-11-23"
   },
   "aby-coulibaly": {
    "name": "Aby Coulibaly",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://abycoulibaly.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "irked": {
    "name": "IRKED",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://irked1.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "norman-d-loco": {
    "name": "Norman D. Loco",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://norman-d-loco.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "aimee-fatale": {
    "name": "Aimée Fatale",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://aimeefatale.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "tidetied": {
    "name": "TIDETIED",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/channel/UClMpY-plny7K7IwsaPhDN8A",
+   "checked": "2026-11-23"
   },
   "melanie-baker": {
    "name": "Melanie Baker",
@@ -1735,11 +1757,15 @@
   },
   "cholly-rosie-robinson": {
    "name": "Cholly / Rosie Robinson",
-   "status": "pending"
+   "status": "none",
+   "note": "no channel or Bandcamp found",
+   "checked": "2026-11-23"
   },
   "tc-the-groove-family": {
    "name": "TC & The Groove Family",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://tcandthegroovefamily.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "treeboy-arc": {
    "name": "Treeboy & Arc",
@@ -1768,31 +1794,45 @@
   },
   "hitmen": {
    "name": "HITMEN",
-   "status": "pending"
+   "status": "none",
+   "note": "no own channel or Bandcamp found",
+   "checked": "2026-11-23"
   },
   "the-orielles": {
    "name": "The Orielles",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/c/TheOrielles",
+   "checked": "2026-11-23"
   },
   "dogsbody": {
    "name": "Dogsbody",
-   "status": "pending"
+   "status": "none",
+   "note": "ambiguous name",
+   "checked": "2026-11-23"
   },
   "adult-dvd": {
    "name": "Adult DVD",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@adultdvdband",
+   "checked": "2026-11-23"
   },
   "chalk": {
    "name": "Chalk",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@chalkband",
+   "checked": "2026-11-23"
   },
   "max-rad": {
    "name": "MAX RAD",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://maxradmaxrad.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "of-iyrn": {
    "name": "Of Iyrn",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://ofiyrn.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "ex-family": {
    "name": "Ex-Family",
