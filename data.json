@@ -1360,7 +1360,9 @@
   },
   "ttssfu": {
    "name": "TTSSFU",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/channel/UCQzqfXhyUuhWfTn9zJn9SSQ",
+   "checked": "2026-11-23"
   },
   "formal-sppeedwear": {
    "name": "Formal Sppeedwear",
@@ -1454,7 +1456,9 @@
   },
   "joshua-burnside": {
    "name": "Joshua Burnside",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://joshuaburnside.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "the-man-the-myth-the-meatslab": {
    "name": "The Man, The Myth, The Meatslab",
@@ -1482,7 +1486,9 @@
   },
   "brodie-milner": {
    "name": "Brodie Milner",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/channel/UCrjDz0CX4gOhV4Jm_2b9egA",
+   "checked": "2026-11-23"
   },
   "burglar": {
    "name": "Burglar",
@@ -1494,7 +1500,9 @@
   },
   "ellen-beth-abdi": {
    "name": "Ellen Beth Abdi",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@ellenbethabdi",
+   "checked": "2026-11-23"
   },
   "pyncher": {
    "name": "pyncher",
@@ -1585,7 +1593,9 @@
   },
   "1000-rabbits": {
    "name": "1000 Rabbits",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://1000rabbitsband.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "elsas": {
    "name": "ELSAS",
@@ -1632,7 +1642,9 @@
   },
   "pigeon": {
    "name": "Pigeon",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://pigeon-uk.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "salo": {
    "name": "SALO",
@@ -1738,15 +1750,21 @@
   },
   "lime-garden": {
    "name": "Lime Garden",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/c/LimeGarden",
+   "checked": "2026-11-23"
   },
   "really-good-time": {
    "name": "Really Good Time",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@reallygoodtimereallygoodtime",
+   "checked": "2026-11-23"
   },
   "clt-drp": {
    "name": "CLT DRP",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@cltdrp",
+   "checked": "2026-11-23"
   },
   "hitmen": {
    "name": "HITMEN",
@@ -1784,15 +1802,21 @@
   },
   "raynor": {
    "name": "Raynor",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://raynoruk.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "ella-more": {
    "name": "Ella More",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@ellamore__",
+   "checked": "2026-11-23"
   },
   "deary": {
    "name": "deary",
-   "status": "pending"
+   "status": "youtube",
+   "youtube": "https://www.youtube.com/@dearybanduk",
+   "checked": "2026-11-23"
   },
   "barrell-jones": {
    "name": "BARRELL JONES",
@@ -1800,15 +1824,21 @@
   },
   "lizzie-reid": {
    "name": "Lizzie Reid",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://lizziereid.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "alfresco-love-sounds": {
    "name": "Alfresco Love Sounds",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://alfrescolovesounds.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "wesley-bennett": {
    "name": "Wesley Bennett",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://wesleybennettmusic.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "getdown-services": {
    "name": "Getdown Services",
@@ -1818,7 +1848,9 @@
   },
   "blood-wizard": {
    "name": "Blood Wizard",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://bloodwzrd.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "nano-kino": {
    "name": "Nano Kino",
@@ -1834,15 +1866,21 @@
   },
   "seegz": {
    "name": "seegz",
-   "status": "pending"
+   "status": "none",
+   "note": "no channel or Bandcamp found",
+   "checked": "2026-11-23"
   },
   "lifeloose": {
    "name": "Lifeloose",
-   "status": "pending"
+   "status": "none",
+   "note": "no channel or Bandcamp found",
+   "checked": "2026-11-23"
   },
   "martial-arts": {
    "name": "Martial Arts",
-   "status": "pending"
+   "status": "none",
+   "note": "Manchester band; no own channel or Bandcamp found (releases on 5dB Records)",
+   "checked": "2026-11-23"
   },
   "orla-noble": {
    "name": "Orla Noble",
@@ -1895,7 +1933,9 @@
   },
   "first-day-of-spring": {
    "name": "First Day of Spring",
-   "status": "pending"
+   "status": "bandcamp",
+   "bandcamp": "https://firstdayofspringband.bandcamp.com/",
+   "checked": "2026-11-23"
   },
   "note": {
    "name": "Note",
