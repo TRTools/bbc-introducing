@@ -1378,7 +1378,9 @@
   },
   "dead-dads-club": {
    "name": "Dead Dads Club",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "no channel found; Bandcamp of that name is a US act"
   },
   "vegas-water-taxi": {
    "name": "vegas water taxi",
@@ -1408,11 +1410,15 @@
   },
   "alewya": {
    "name": "Alewya",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCI88M57QTz-pe4iqZx8hhxg"
   },
   "emmeline": {
    "name": "Emmeline",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "ambiguous name"
   },
   "you-are-steve": {
    "name": "You Are Steve",
@@ -1474,15 +1480,21 @@
   },
   "neone-the-wonderer": {
    "name": "NeONE The Wonderer",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCJXzQbtnviBVdwDFfI9le4A"
   },
   "franz-von-x-sketchthewave-x-kin-louie": {
    "name": "Franz Von x SketchTheWave x Kin Louie",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "collaboration; no shared channel or Bandcamp found"
   },
   "yaz-leon": {
    "name": "Yaz León",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@Yazleon"
   },
   "brodie-milner": {
    "name": "Brodie Milner",
@@ -1492,7 +1504,9 @@
   },
   "burglar": {
    "name": "Burglar",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "ambiguous name; only a Dublin band found"
   },
   "heart-and-mouth": {
    "name": "Heart and Mouth",
@@ -1514,11 +1528,15 @@
   },
   "madeline-tully": {
    "name": "Madeline Tully",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-24",
+   "bandcamp": "https://madelinetully.bandcamp.com/"
   },
   "waterpistol": {
    "name": "Waterpistol",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-24",
+   "bandcamp": "https://waterpistolband.bandcamp.com/"
   },
   "1-800-girls": {
    "name": "1-800 GIRLS",
@@ -1570,11 +1588,15 @@
   },
   "alice-costelloe": {
    "name": "Alice Costelloe",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@alcostelloe"
   },
   "pem": {
    "name": "PEM",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-24",
+   "bandcamp": "https://pemmusic.bandcamp.com/"
   },
   "mwsog": {
    "name": "MWSOG",
@@ -2029,7 +2051,9 @@
   },
   "holybones": {
    "name": "holybones",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@holybones"
   },
   "girls-of-the-internet": {
    "name": "Girls of the Internet",
@@ -2686,35 +2710,51 @@
   },
   "bonuru": {
    "name": "Bonuru",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-24",
+   "bandcamp": "https://bonuru.bandcamp.com/"
   },
   "oneda": {
    "name": "OneDa",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCP7UhUNtybEd9ViLxcy0KKQ"
   },
   "comfort": {
    "name": "comfort",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "ambiguous name"
   },
   "vehicle": {
    "name": "Vehicle",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "ambiguous name"
   },
   "shaking-hand": {
    "name": "Shaking Hand",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCINNLFvQIGpoE2r1onNCJXQ"
   },
   "crush-velvet": {
    "name": "crush velvet",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "tallulah-argue": {
    "name": "Tallulah Argue",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCQwTnLgVI7zPhxo8OAdikiw"
   },
   "book-of-churches": {
    "name": "Book of Churches",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@BookofChurches"
   },
   "post-common": {
    "name": "Post Common",
