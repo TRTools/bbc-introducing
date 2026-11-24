@@ -1522,7 +1522,9 @@
   },
   "1-800-girls": {
    "name": "1-800 GIRLS",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@1800GIRLS"
   },
   "kloyd": {
    "name": "Kloyd",
@@ -1532,23 +1534,33 @@
   },
   "blossom-caldarone": {
    "name": "Blossom Caldarone",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@blossomcaldarone3740"
   },
   "conscious-pilot": {
    "name": "Conscious Pilot",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-24",
+   "bandcamp": "https://consciouspilotuk.bandcamp.com/"
   },
   "the-new-cut": {
    "name": "The New Cut",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@thenewcut"
   },
   "robyn-florence-davies": {
    "name": "Robyn Florence & DAVIES",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "collaboration; no shared channel or Bandcamp found"
   },
   "improvjazzlab": {
    "name": "improvjazzlab.",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCJj-fG1ezh0w_HIOXywYAVQ"
   },
   "natalie-wildgoose": {
    "name": "Natalie Wildgoose",
@@ -1573,15 +1585,21 @@
   },
   "life": {
    "name": "LIFE",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@LIFEBAND"
   },
   "shale": {
    "name": "Shale",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@weareshale"
   },
   "winemom": {
    "name": "WineMom",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@winemom_official"
   },
   "menig": {
    "name": "menig",
@@ -1591,7 +1609,9 @@
   },
   "crystal-murray": {
    "name": "Crystal Murray",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCX2soZp6O2My7B4EqbAh9AQ"
   },
   "1000-rabbits": {
    "name": "1000 Rabbits",
@@ -1601,27 +1621,39 @@
   },
   "elsas": {
    "name": "ELSAS",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/channel/UCHH2SBuUvee_UIxP3skQ4sQ"
   },
   "ugly-dave": {
    "name": "Ugly Dave",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "earth-farm": {
    "name": "Earth Farm",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-24",
+   "bandcamp": "https://earthfarm.bandcamp.com/"
   },
   "this-rainy-decade": {
    "name": "this rainy decade",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "no YouTube channel or Bandcamp found"
   },
   "lande-hekt": {
    "name": "Lande Hekt",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-24",
+   "bandcamp": "https://landehekt.bandcamp.com/"
   },
   "maya-law-freya-roy": {
    "name": "Maya Law & Freya Roy",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "collaboration; no shared channel or Bandcamp found"
   },
   "ladylike": {
    "name": "ladylike",
@@ -1680,11 +1712,15 @@
   },
   "fiobha": {
    "name": "Fíobha",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-24",
+   "note": "only a Fìobha Ceilidh Band channel found; no clear tie"
   },
   "jessie-marcella": {
    "name": "Jessie Marcella",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@jessiemarcellamusic"
   },
   "iona-luke": {
    "name": "Iona Luke",
@@ -1694,11 +1730,15 @@
   },
   "morgan-harper-jones": {
    "name": "Morgan Harper-Jones",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@morganharperjones"
   },
   "emily-francis-trio": {
    "name": "Emily Francis Trio",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-24",
+   "youtube": "https://www.youtube.com/@EmilyFrancisKeys"
   },
   "konyikeh": {
    "name": "Konyikeh",
