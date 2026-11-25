@@ -857,7 +857,9 @@
   },
   "clea-may": {
    "name": "Clea May",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "no channel or Bandcamp found"
   },
   "cordelia-gartside": {
    "name": "cordelia gartside",
@@ -1138,7 +1140,9 @@
   },
   "natalie-mccool": {
    "name": "Natalie McCool",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/c/nataliemccoolmusic"
   },
   "ninarosa": {
    "name": "NinaRosa",
@@ -1356,7 +1360,9 @@
   },
   "florence-road": {
    "name": "Florence Road",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "only a Topic channel; no Bandcamp found"
   },
   "ttssfu": {
    "name": "TTSSFU",
@@ -1384,11 +1390,15 @@
   },
   "vegas-water-taxi": {
    "name": "vegas water taxi",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/@VegasWaterTaxi"
   },
   "turnspit": {
    "name": "TURNSPIT",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://turnspitbanduk.bandcamp.com/"
   },
   "elanor-moss": {
    "name": "Elanor Moss",
@@ -1398,15 +1408,21 @@
   },
   "dove-ellis": {
    "name": "Dove Ellis",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://doveellis.bandcamp.com/"
   },
   "lemondaze": {
    "name": "Lemondaze",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://lemondaze.bandcamp.com/"
   },
   "pollyfromthedirt": {
    "name": "Pollyfromthedirt",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "no channel or Bandcamp found"
   },
   "alewya": {
    "name": "Alewya",
@@ -1422,43 +1438,63 @@
   },
   "you-are-steve": {
    "name": "You Are Steve",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://youaresteve.bandcamp.com/"
   },
   "tummyache": {
    "name": "tummyache",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/@tummyache"
   },
   "usnaboy": {
    "name": "USNABOY",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "official videos on YouTube but no channel found; no Bandcamp"
   },
   "mauvey": {
    "name": "MAUVEY",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/@MAUVEY"
   },
   "grove": {
    "name": "Grove",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/@theyisgrove"
   },
   "riya": {
    "name": "RIYA",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "ambiguous name"
   },
   "crimewave": {
    "name": "Crimewave",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "ambiguous name; several bands called Crimewave"
   },
   "heartcoregirl": {
    "name": "Heartcoregirl",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "videos on YouTube but no channel found; no own Bandcamp"
   },
   "sleepy-gene": {
    "name": "Sleepy Gene",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/@SleepyGenezzz"
   },
   "mellt": {
    "name": "MELLT",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://melltcerdd.bandcamp.com/"
   },
   "joshua-burnside": {
    "name": "Joshua Burnside",
@@ -1468,7 +1504,9 @@
   },
   "the-man-the-myth-the-meatslab": {
    "name": "The Man, The Myth, The Meatslab",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://themanthemyththemeatslab.bandcamp.com/"
   },
   "ellur": {
    "name": "Ellur",
@@ -1922,7 +1960,9 @@
   },
   "barrell-jones": {
    "name": "BARRELL JONES",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "no channel or Bandcamp found"
   },
   "lizzie-reid": {
    "name": "Lizzie Reid",
@@ -2041,7 +2081,9 @@
   },
   "note": {
    "name": "Note",
-   "status": "pending"
+   "status": "none",
+   "checked": "2026-11-25",
+   "note": "ambiguous name"
   },
   "chinwe": {
    "name": "Chinwe",
@@ -2057,7 +2099,9 @@
   },
   "girls-of-the-internet": {
    "name": "Girls of the Internet",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://drabqueen.bandcamp.com/"
   },
   "paal-singh": {
    "name": "Paal Singh",
@@ -2165,7 +2209,9 @@
   },
   "tom-a-smith": {
    "name": "Tom A. Smith",
-   "status": "pending"
+   "status": "bandcamp",
+   "checked": "2026-11-25",
+   "bandcamp": "https://tomasmithmusic.bandcamp.com/"
   },
   "thais-ray": {
    "name": "Thaïs Ray",
@@ -2266,7 +2312,9 @@
   },
   "junior-simba": {
    "name": "Junior Simba",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/channel/UCeIjI73DyC6w4bAvon31R-w"
   },
   "sophia-harari-donsurf": {
    "name": "Sophia Harari & Donsurf",
@@ -2669,7 +2717,10 @@
   },
   "improvazzlab": {
    "name": "improvazzlab.",
-   "status": "pending"
+   "status": "youtube",
+   "checked": "2026-11-25",
+   "youtube": "https://www.youtube.com/channel/UCJj-fG1ezh0w_HIOXywYAVQ",
+   "note": "channel is spelled improvjazzlab."
   },
   "mr-speed": {
    "name": "Mr Speed",
